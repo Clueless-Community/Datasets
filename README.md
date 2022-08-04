@@ -1,6 +1,6 @@
 # Dataset Collections
 <hr>
-<p>A collection of data to use in projects</p>
+<p>A collection of data we always need to use in projects</p>
 
 ### Data format available :-
 - JSON
