@@ -5,6 +5,7 @@
 ### Data format available :-
 - JSON
 - CSV
+- Array
 
 ### Dataset Available :-
 - Techstack collection
