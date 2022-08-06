@@ -1,0 +1,156 @@
+[
+    {
+        "country": "India",
+        "cities": [
+            {
+                "name": "Mumbai"
+            },
+            {
+                "name": "Delhi"
+            },
+            {
+                "name": "Bangalore"
+            },
+            {
+                "name": "Hyderabad"
+            },
+            {
+                "name": "Ahmedabad"
+            },
+            {
+                "name": "Chennai"
+            },
+            {
+                "name": "Kolkata"
+            },
+            {
+                "name": "Surat"
+            },
+            {
+                "name": "Pune"
+            },
+            {
+                "name": "Jaipur"
+            }
+        ]
+    },
+    {
+        "country": "United States",
+        "cities": [
+            {
+                "name": "New York"
+            },
+            {
+                "name": "California"
+            },
+            {
+                "name": "Illinois"
+            },
+            {
+                "name": "Texas"
+            },
+            {
+                "name": "Arizona"
+            },
+            {
+                "name": "Pennsylvania"
+            },
+            {
+                "name": "Florida"
+            },
+            {
+                "name": "Washington"
+            },
+            {
+                "name": "Ohio"
+            }
+        ]
+    },
+    {
+        "country": "Germany",
+        "cities": [
+            {
+                "name": "Berlin"
+            },
+            {
+                "name": "Hamburg"
+            },
+            {
+                "name": "Munich"
+            },
+            {
+                "name": "Cologne"
+            },
+            {
+                "name": "Frankfurt"
+            },
+            {
+                "name": "Stuttgart"
+            },
+            {
+                "name": "Düsseldorf"
+            },
+            {
+                "name": "Dortmund"
+            }
+        ]
+    },
+    {
+        "country": "Australia",
+        "cities": [
+            {
+                "name": "Brisbane"
+            },
+            {
+                "name": "Sydney"
+            },
+            {
+                "name": "Melbourne"
+            },
+            {
+                "name": "Perth"
+            },
+            {
+                "name": "Cairns"
+            },
+            {
+                "name": "Hobart"
+            },
+            {
+                "name": "Gold Coast"
+            },
+            {
+                "name": "Darwin"
+            }
+        ]
+    },
+    {
+        "country": "United Kingdom",
+        "cities": [
+            {
+                "name": "London"
+            },
+            {
+                "name": "Manchester"
+            },
+            {
+                "name": "Liverpool"
+            },
+            {
+                "name": "Newcastle"
+            },
+            {
+                "name": "Sheffield"
+            },
+            {
+                "name": "Southampton"
+            },
+            {
+                "name": "Leeds"
+            },
+            {
+                "name": "Birmingham"
+            }
+        ]
+    }
+]
