@@ -51,7 +51,6 @@ const techstack = [
          {name : "React"},
          {name : "Next.js"},
          {name : "Tailwind CSS"},
-         {name : "Bootstrap"},
          {name : "AWS"},
          {name : "Azure"},
          {name : "TypeScript"},
