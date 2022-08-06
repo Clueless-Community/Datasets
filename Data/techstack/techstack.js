@@ -48,4 +48,13 @@ const techstack = [
          {name : "Sketch"},
          {name : "Jenkins"},
          {name : "Raspberry Pi"},
+         {name : "React"},
+         {name : "Next.js"},
+         {name : "Tailwind CSS"},
+         {name : "AWS"},
+         {name : "Azure"},
+         {name : "TypeScript"},
+         {name : "Jest"},
+         {name : "Chai"},
+         {name : "Express"},
 ]
