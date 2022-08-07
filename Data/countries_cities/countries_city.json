@@ -1,156 +1,1086 @@
 [
-    {
-        "country": "India",
-        "cities": [
-            {
-                "name": "Mumbai"
-            },
-            {
-                "name": "Delhi"
-            },
-            {
-                "name": "Bangalore"
-            },
-            {
-                "name": "Hyderabad"
-            },
-            {
-                "name": "Ahmedabad"
-            },
-            {
-                "name": "Chennai"
-            },
-            {
-                "name": "Kolkata"
-            },
-            {
-                "name": "Surat"
-            },
-            {
-                "name": "Pune"
-            },
-            {
-                "name": "Jaipur"
-            }
-        ]
-    },
-    {
-        "country": "United States",
-        "cities": [
-            {
-                "name": "New York"
-            },
-            {
-                "name": "California"
-            },
-            {
-                "name": "Illinois"
-            },
-            {
-                "name": "Texas"
-            },
-            {
-                "name": "Arizona"
-            },
-            {
-                "name": "Pennsylvania"
-            },
-            {
-                "name": "Florida"
-            },
-            {
-                "name": "Washington"
-            },
-            {
-                "name": "Ohio"
-            }
-        ]
-    },
-    {
-        "country": "Germany",
-        "cities": [
-            {
-                "name": "Berlin"
-            },
-            {
-                "name": "Hamburg"
-            },
-            {
-                "name": "Munich"
-            },
-            {
-                "name": "Cologne"
-            },
-            {
-                "name": "Frankfurt"
-            },
-            {
-                "name": "Stuttgart"
-            },
-            {
-                "name": "Düsseldorf"
-            },
-            {
-                "name": "Dortmund"
-            }
-        ]
-    },
-    {
-        "country": "Australia",
-        "cities": [
-            {
-                "name": "Brisbane"
-            },
-            {
-                "name": "Sydney"
-            },
-            {
-                "name": "Melbourne"
-            },
-            {
-                "name": "Perth"
-            },
-            {
-                "name": "Cairns"
-            },
-            {
-                "name": "Hobart"
-            },
-            {
-                "name": "Gold Coast"
-            },
-            {
-                "name": "Darwin"
-            }
-        ]
-    },
-    {
-        "country": "United Kingdom",
-        "cities": [
-            {
-                "name": "London"
-            },
-            {
-                "name": "Manchester"
-            },
-            {
-                "name": "Liverpool"
-            },
-            {
-                "name": "Newcastle"
-            },
-            {
-                "name": "Sheffield"
-            },
-            {
-                "name": "Southampton"
-            },
-            {
-                "name": "Leeds"
-            },
-            {
-                "name": "Birmingham"
-            }
-        ]
-    }
+  {
+    "country": "India",
+    "cities": [
+      {
+        "name": "Mumbai"
+      },
+      {
+        "name": "Delhi"
+      },
+      {
+        "name": "Bangalore"
+      },
+      {
+        "name": "Hyderabad"
+      },
+      {
+        "name": "Ahmedabad"
+      },
+      {
+        "name": "Chennai"
+      },
+      {
+        "name": "Kolkata"
+      },
+      {
+        "name": "Surat"
+      },
+      {
+        "name": "Pune"
+      },
+      {
+        "name": "Jaipur"
+      },
+      {
+        "name": "Lucknow"
+      },
+      {
+        "name": "Kanpur"
+      },
+      {
+        "name": "Nagpur"
+      },
+      {
+        "name": "Indore"
+      },
+      {
+        "name": "Thane"
+      },
+      {
+        "name": "Bhopal"
+      },
+      {
+        "name": "Vishakhapatnam"
+      },
+      {
+        "name": "Pimpri-Chinchwad"
+      },
+      {
+        "name": "Patna"
+      },
+      {
+        "name": "Vadodra"
+      },
+      {
+        "name": "Ludhiana"
+      },
+      {
+        "name": "Ghaziabad"
+      },
+      {
+        "name": "Agra"
+      },
+      {
+        "name": "Nashik"
+      },
+      {
+        "name": "Faridabad"
+      },
+      {
+        "name": "Kalyan-Dombivli"
+      },
+      {
+        "name": "Meerut"
+      },
+      {
+        "name": "Vasai-Virar"
+      },
+      {
+        "name": "Rajkot"
+      },
+      {
+        "name": "Varanasi"
+      },
+      {
+        "name": "Srinagar"
+      },
+      {
+        "name": "Aurangabad"
+      },
+      {
+        "name": "Howrah"
+      },
+      {
+        "name": "Ranchi"
+      },
+      {
+        "name": "Gwalior"
+      },
+      {
+        "name": "Jodhpur"
+      },
+      {
+        "name": "Raipur"
+      },
+      {
+        "name": "Madurai"
+      },
+      {
+        "name": "Kota"
+      },
+      {
+        "name": "Chandigarh"
+      },
+      {
+        "name": "Guhwati"
+      },
+      {
+        "name": "Solapur"
+      },
+      {
+        "name": "Huli-Dharwad"
+      },
+      {
+        "name": "Tiruchirappalli"
+      },
+      {
+        "name": "Mysore"
+      },
+      {
+        "name": "Bareilly"
+      },
+      {
+        "name": "Aligarh"
+      },
+      {
+        "name": "Gurgaon"
+      },
+      {
+        "name": "Trippur"
+      },
+      {
+        "name": "Moradabad"
+      },
+      {
+        "name": "Jalandhar"
+      },
+      {
+        "name": "Bhubaneshwar"
+      },
+      {
+        "name": "Salem"
+      },
+      {
+        "name": "Warangal"
+      },
+      {
+        "name": "Jalgaon"
+      },
+      {
+        "name": "Mira-Bhayandar"
+      },
+      {
+        "name": "Guntur"
+      },
+      {
+        "name": "Thiruvananthapuram"
+      },
+      {
+        "name": "Bhiwandi"
+      },
+      {
+        "name": "Saharanpur"
+      },
+      {
+        "name": "Gorakhpur"
+      },
+      {
+        "name": "Bikaner"
+      },
+      {
+        "name": "Noida"
+      },
+      {
+        "name": "Amravati"
+      },
+      {
+        "name": "Jamshedpur"
+      },
+      {
+        "name": "Bhilai"
+      },
+      {
+        "name": "Cuttack"
+      },
+      {
+        "name": "Firozabad"
+      },
+      {
+        "name": "Kochi"
+      },
+      {
+        "name": "Nellore"
+      },
+      {
+        "name": "Bhavnagar"
+      },
+      {
+        "name": "Dehradun"
+      },
+      {
+        "name": "Arsanol"
+      },
+      {
+        "name": "Rourkela"
+      },
+      {
+        "name": "Durgapur"
+      },
+      {
+        "name": "Nanded"
+      },
+      {
+        "name": "Kolhapur"
+      },
+      {
+        "name": "Ajmer"
+      },
+      {
+        "name": "Akola"
+      },
+      {
+        "name": "Gulbarga"
+      },
+      {
+        "name": "Jamnagar"
+      },
+      {
+        "name": "Ujjain"
+      },
+      {
+        "name": "Loni"
+      },
+      {
+        "name": "Siliguri"
+      },
+      {
+        "name": "Jhansi"
+      },
+      {
+        "name": "Ulhasnagar"
+      },
+      {
+        "name": "Jammu"
+      },
+      {
+        "name": "Sangli-Miraj & Kupwad"
+      },
+      {
+        "name": "Mangalore"
+      },
+      {
+        "name": "Erode"
+      },
+      {
+        "name": "Belgaum"
+      },
+      {
+        "name": "Kurnool"
+      },
+      {
+        "name": "Ambattur"
+      },
+      {
+        "name": "Rajahmundry"
+      },
+      {
+        "name": "Tirunelveli"
+      },
+      {
+        "name": "Malegaon"
+      },
+      {
+        "name": "Gaya"
+      },
+      {
+        "name": "Udaipur"
+      },
+      {
+        "name": "Karur"
+      },
+      {
+        "name": "Kakinada"
+      },
+      {
+        "name": "Davanagere"
+      },
+      {
+        "name": "Kozhikode"
+      },
+      {
+        "name": "Maheshtala"
+      },
+      {
+        "name": "Rajpur Sonarpur"
+      },
+      {
+        "name": "Rajpur Sonarpur"
+      },
+      {
+        "name": "Bokaro"
+      },
+      {
+        "name": "South Dumdum"
+      },
+      {
+        "name": "Bellary"
+      },
+      {
+        "name": "Patiala"
+      },
+      {
+        "name": "Gopalpur"
+      },
+      {
+        "name": "Bhagalpur"
+      },
+      {
+        "name": "Agartala"
+      },
+      {
+        "name": "Muzaffarnagar"
+      },
+      {
+        "name": "Bhatpara"
+      },
+      {
+        "name": "Panihati"
+      },
+      {
+        "name": "Latur"
+      },
+      {
+        "name": "Dhule"
+      },
+      {
+        "name": "Rohtak"
+      },
+      {
+        "name": "Sagar"
+      },
+      {
+        "name": "Bhilwara"
+      },
+      {
+        "name": "Korba"
+      },
+      {
+        "name": "Berhampur"
+      },
+      {
+        "name": "Muzaffarpur"
+      },
+
+      {
+        "name": "Ahmednagar"
+      },
+      {
+        "name": "Mathura"
+      },
+      {
+        "name": "Kollam"
+      },
+      {
+        "name": "Avadi"
+      },
+      {
+        "name": "Kadapa"
+      },
+      {
+        "name": "Anantapuram"
+      },
+      {
+        "name": "Kamarhati"
+      },
+      {
+        "name": "Bilaspur"
+      },
+      {
+        "name": "Sambalpur"
+      },
+      {
+        "name": "Shahjahanpur"
+      },
+      {
+        "name": "Bijapur"
+      },
+
+      {
+        "name": "Satara"
+      },
+      {
+        "name": "Rampur"
+      },
+      {
+        "name": "Shimoga"
+      },
+      {
+        "name": "Chandrapur"
+      },
+      {
+        "name": "Junagadh"
+      },
+
+      {
+        "name": "Thrissur"
+      },
+      {
+        "name": "Alwar"
+      },
+      {
+        "name": "Bardhaman"
+      },
+      {
+        "name": "Kulti"
+      },
+
+      {
+        "name": "Nizamabad"
+      },
+      {
+        "name": "Parbhani"
+      },
+      {
+        "name": "Tumkur"
+      },
+      {
+        "name": "Khammam"
+      },
+      {
+        "name": "Uzhavarkarai"
+      },
+      {
+        "name": "Bihar Sharif"
+      },
+      {
+        "name": "Kollam"
+      },
+      {
+        "name": "Panipat"
+      },
+      {
+        "name": "Darbhanga"
+      },
+      {
+        "name": "Bally"
+      },
+      {
+        "name": "Aizawl"
+      },
+      {
+        "name": "Dewas"
+      },
+      {
+        "name": "Aizawl"
+      },
+      {
+        "name": "Ichalkaranji"
+      },
+      {
+        "name": "Karnal"
+      },
+      {
+        "name": "Bathinda"
+      },
+      {
+        "name": "Jalna"
+      },
+      {
+        "name": "Eluru"
+      },
+      {
+        "name": "Barasat"
+      },
+      {
+        "name": "Kirari Suleman Nagar"
+      },
+      {
+        "name": "Purnia"
+      },
+      {
+        "name": "Satna"
+      },
+      {
+        "name": "Mau"
+      },
+      {
+        "name": "Sonipat"
+      },
+      {
+        "name": "Farrukhabad"
+      },
+      {
+        "name": "Durg"
+      },
+      {
+        "name": "Imphal"
+      },
+      {
+        "name": "Ratlam"
+      },
+      {
+        "name": "Hapur"
+      },
+      {
+        "name": "Arrah"
+      },
+      {
+        "name": "Anantapur"
+      },
+      {
+        "name": "Karimnagar"
+      },
+
+      {
+        "name": "Etawah"
+      },
+      {
+        "name": "Ambarnath"
+      },
+      {
+        "name": "North Dumdum"
+      },
+      {
+        "name": "Bharatpur"
+      },
+
+      {
+        "name": "Begusarai"
+      },
+      {
+        "name": "New Delhi"
+      },
+      {
+        "name": "Gandhidham"
+      },
+      {
+        "name": "Baranagar"
+      },
+      {
+        "name": "Tiruvottiyur"
+      },
+      {
+        "name": "Pondicherry"
+      },
+
+      {
+        "name": "Sikar"
+      },
+      {
+        "name": "Thoothukudi"
+      },
+      {
+        "name": "Rewa"
+      },
+      {
+        "name": "Mirzapur"
+      },
+      {
+        "name": "Raichur"
+      },
+      {
+        "name": "Pali"
+      },
+      {
+        "name": "Ramagundam"
+      },
+      {
+        "name": "Silchar"
+      },
+      {
+        "name": "Haridwar"
+      },
+      {
+        "name": "Vijayanagaram"
+      },
+      {
+        "name": "Tenali"
+      },
+
+      {
+        "name": "Nagercoil"
+      },
+      {
+        "name": "Sri Ganganagar"
+      },
+      {
+        "name": "Karawal Nagar"
+      },
+      {
+        "name": "Mango"
+      },
+      {
+        "name": "Thanjavur"
+      },
+      {
+        "name": "Bulandshahr"
+      },
+      {
+        "name": "Uluberia"
+      },
+      {
+        "name": "Katni"
+      },
+      {
+        "name": "Sambhal"
+      },
+      {
+        "name": "Singrauli"
+      },
+      {
+        "name": "Nadiad"
+      },
+      {
+        "name": "Secunderabad"
+      },
+      {
+        "name": "Naihati"
+      },
+      {
+        "name": "Yamunanagar"
+      },
+      {
+        "name": "Bidhannagar"
+      },
+      {
+        "name": "Pallavaram"
+      },
+      {
+        "name": "Bidar"
+      },
+      {
+        "name": "Munger"
+      },
+      {
+        "name": "Panchkula"
+      },
+      {
+        "name": "Burhanpur"
+      },
+      {
+        "name": "Kharagpur"
+      },
+      {
+        "name": "Dindigul"
+      },
+      {
+        "name": "Gandhinagar"
+      },
+      {
+        "name": "Hospet"
+      },
+      {
+        "name": "Nangloi Jat"
+      },
+      {
+        "name": "Malda"
+      },
+      {
+        "name": "Ongole"
+      },
+      {
+        "name": "Deoghar"
+      },
+      {
+        "name": "Chhapra"
+      },
+      {
+        "name": "Puri"
+      },
+      {
+        "name": "Haldia"
+      },
+      {
+        "name": "Khandwa"
+      },
+      {
+        "name": "Nandyal"
+      },
+      {
+        "name": "Morena"
+      },
+      {
+        "name": "Amroha"
+      },
+      {
+        "name": "Anand"
+      },
+      {
+        "name": "Bhind"
+      },
+      {
+        "name": "Bhalswa Jahangir Pur"
+      },
+      {
+        "name": "Madhyamgram"
+      },
+      {
+        "name": "Bhiwani"
+      },
+      {
+        "name": "Berhampore"
+      },
+      {
+        "name": "Ambala"
+      },
+      {
+        "name": "Morbi"
+      },
+      {
+        "name": "Fatehpur"
+      },
+      {
+        "name": "Raebareli"
+      },
+      {
+        "name": "Chittoor"
+      },
+      {
+        "name": "Bhusawal"
+      },
+      {
+        "name": "Orai"
+      },
+      {
+        "name": "Bahraich"
+      },
+      {
+        "name": "Phusro"
+      },
+      {
+        "name": "Vellore"
+      },
+      {
+        "name": "Mehsana"
+      },
+      {
+        "name": "Raiganj"
+      },
+      {
+        "name": "Sirsa"
+      },
+      {
+        "name": "Danapur"
+      },
+      {
+        "name": "Serampore"
+      },
+      {
+        "name": "Sultan Pur Majra"
+      },
+      {
+        "name": "Guna"
+      },
+      {
+        "name": "Jaunpur"
+      },
+      {
+        "name": "Panvel"
+      },
+      {
+        "name": "Shivpuri"
+      },
+      {
+        "name": "Surendranagar Dudhrej"
+      },
+      {
+        "name": "Unnao"
+      },
+      {
+        "name": "Chinsurah"
+      },
+      {
+        "name": "Alappuzha"
+      },
+      {
+        "name": "Kottayam"
+      },
+      {
+        "name": "Machilipatnam"
+      },
+      {
+        "name": "Shimla"
+      },
+      {
+        "name": "Midnapore"
+      },
+      {
+        "name": "Adoni"
+      },
+      {
+        "name": "Udupi"
+      },
+      {
+        "name": "Katihar"
+      },
+      {
+        "name": "Proddatur"
+      },
+      {
+        "name": "Budaun"
+      },
+      {
+        "name": "Mahbubnagar"
+      },
+      {
+        "name": "Saharsa"
+      },
+      {
+        "name": "Dibrugarh"
+      },
+      {
+        "name": "Jorhat"
+      },
+      {
+        "name": "Hazaribagh"
+      },
+      {
+        "name": "Hindupur"
+      },
+      {
+        "name": "Nagaon"
+      },
+      {
+        "name": "Hajipur"
+      },
+      {
+        "name": "Sasaram"
+      },
+      {
+        "name": "Giridih"
+      },
+      {
+        "name": "Bhimavaram"
+      },
+      {
+        "name": "Port Blair"
+      },
+      {
+        "name": "Kumbakonam"
+      },
+      {
+        "name": "Bongaigaon"
+      },
+      {
+        "name": "Dehri"
+      },
+      {
+        "name": "Madanapalle"
+      },
+      {
+        "name": "Siwan"
+      },
+      {
+        "name": "Bettiah"
+      },
+      {
+        "name": "Ramgarh"
+      },
+      {
+        "name": "Tinsukia"
+      },
+      {
+        "name": "Guntakal"
+      },
+      {
+        "name": "Srikakulam"
+      },
+      {
+        "name": "Motihari"
+      },
+      {
+        "name": "Dharmavaram"
+      },
+      {
+        "name": "Medininagar"
+      },
+      {
+        "name": "Gudivada"
+      },
+      {
+        "name": "Phagwara"
+      },
+      {
+        "name": "Pudukkottai"
+      },
+      {
+        "name": "Hosur"
+      },
+      {
+        "name": "Narasaraopet"
+      },
+      {
+        "name": "Suryapet"
+      },
+      {
+        "name": "Miryalaguda"
+      },
+      {
+        "name": "Anantnag"
+      },
+      {
+        "name": "Tadipatri"
+      },
+      {
+        "name": "Karaikudi"
+      },
+      {
+        "name": "Kishanganj"
+      },
+      {
+        "name": "Gangavathi"
+      },
+      {
+        "name": "Jamalpur"
+      },
+      {
+        "name": "Ballia"
+      },
+
+      {
+        "name": "Kavali"
+      },
+      {
+        "name": "Tadepalligudem"
+      },
+      {
+        "name": "Amaravati"
+      },
+      {
+        "name": "Buxar"
+      },
+      {
+        "name": "Tezpur"
+      },
+      {
+        "name": "Jehanabad"
+      },
+      {
+        "name": "Gangtok"
+      },
+      {
+        "name": "Vasco Da Gama"
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "cities": [
+      {
+        "name": "New York"
+      },
+      {
+        "name": "California"
+      },
+      {
+        "name": "Illinois"
+      },
+      {
+        "name": "Texas"
+      },
+      {
+        "name": "Arizona"
+      },
+      {
+        "name": "Pennsylvania"
+      },
+      {
+        "name": "Florida"
+      },
+      {
+        "name": "Washington"
+      },
+      {
+        "name": "Ohio"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "cities": [
+      {
+        "name": "Berlin"
+      },
+      {
+        "name": "Hamburg"
+      },
+      {
+        "name": "Munich"
+      },
+      {
+        "name": "Cologne"
+      },
+      {
+        "name": "Frankfurt"
+      },
+      {
+        "name": "Stuttgart"
+      },
+      {
+        "name": "Düsseldorf"
+      },
+      {
+        "name": "Dortmund"
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "cities": [
+      {
+        "name": "Brisbane"
+      },
+      {
+        "name": "Sydney"
+      },
+      {
+        "name": "Melbourne"
+      },
+      {
+        "name": "Perth"
+      },
+      {
+        "name": "Cairns"
+      },
+      {
+        "name": "Hobart"
+      },
+      {
+        "name": "Gold Coast"
+      },
+      {
+        "name": "Darwin"
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "cities": [
+      {
+        "name": "London"
+      },
+      {
+        "name": "Manchester"
+      },
+      {
+        "name": "Liverpool"
+      },
+      {
+        "name": "Newcastle"
+      },
+      {
+        "name": "Sheffield"
+      },
+      {
+        "name": "Southampton"
+      },
+      {
+        "name": "Leeds"
+      },
+      {
+        "name": "Birmingham"
+      }
+    ]
+  }
 ]
