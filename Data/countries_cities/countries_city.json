@@ -968,31 +968,604 @@
     "country": "United States",
     "cities": [
       {
-        "name": "New York"
+        "name": "New York City"
       },
       {
-        "name": "California"
+        "name": "Los Angeles"
       },
       {
-        "name": "Illinois"
+        "name": "Chicago"
       },
       {
-        "name": "Texas"
+        "name": "Houston"
       },
       {
-        "name": "Arizona"
+        "name": "Phoenix"
       },
       {
-        "name": "Pennsylvania"
+        "name": "Philadelphia"
       },
       {
-        "name": "Florida"
+        "name": "San Antonio"
+      },
+      {
+        "name": "San Diego"
+      },
+      {
+        "name": "Dallas"
+      },
+      {
+        "name": "San Jose"
+      },
+      {
+        "name": "Austin"
+      },
+      {
+        "name": "Jacksonville"
+      },
+      {
+        "name": "Fort Worth"
+      },
+      {
+        "name": "Columbus"
+      },
+      {
+        "name": "Charlotte"
+      },
+      {
+        "name": "Indianapolis"
+      },
+      {
+        "name": "San Francisco"
+      },
+      {
+        "name": "Seattle"
+      },
+      {
+        "name": "Denver"
       },
       {
         "name": "Washington"
       },
       {
-        "name": "Ohio"
+        "name": "Nashville"
+      },
+      {
+        "name": "Oklahoma City"
+      },
+      {
+        "name": "Boston"
+      },
+      {
+        "name": "El Paso"
+      },
+      {
+        "name": "Portland"
+      },
+      {
+        "name": "Las Vegas"
+      },
+      {
+        "name": "Memphis"
+      },
+      {
+        "name": "Detroit"
+      },
+      {
+        "name": "Baltimore"
+      },
+      {
+        "name": "Milwaukee"
+      },
+      {
+        "name": "Albuquerque"
+      },
+      {
+        "name": "Fresno"
+      },
+      {
+        "name": "Tucson"
+      },
+      {
+        "name": "Sacramento"
+      },
+      {
+        "name": "Kansas City"
+      },
+      {
+        "name": "Mesa"
+      },
+      {
+        "name": "Atlanta"
+      },
+      {
+        "name": "Omaha"
+      },
+      {
+        "name": "Colorado Springs"
+      },
+      {
+        "name": "Raleigh"
+      },
+      {
+        "name": "Long Beach"
+      },
+      {
+        "name": "Virginia Beach"
+      },
+      {
+        "name": "Miami"
+      },
+      {
+        "name": "Oakland"
+      },
+      {
+        "name": "Minneapolis"
+      },
+      {
+        "name": "Tulsa"
+      },
+      {
+        "name": "Bakersfield"
+      },
+      {
+        "name": "Wichita"
+      },
+      {
+        "name": "Arlington"
+      },
+      {
+        "name": "Aurora"
+      },
+      {
+        "name": "Tampa"
+      },
+      {
+        "name": "New Orleans"
+      },
+      {
+        "name": "Cleveland"
+      },
+      {
+        "name": "Honolulu"
+      },
+      {
+        "name": "Anaheim"
+      },
+      {
+        "name": "Louisville"
+      },
+      {
+        "name": "Henderson"
+      },
+      {
+        "name": "Lexington"
+      },
+      {
+        "name": "Irvine"
+      },
+      {
+        "name": "Stockton"
+      },
+      {
+        "name": "Orlando"
+      },
+      {
+        "name": "Corpus Christi"
+      },
+      {
+        "name": "Newark"
+      },
+      {
+        "name": "Riverside"
+      },
+      {
+        "name": "St. Paul"
+      },
+      {
+        "name": "Cincinnati"
+      },
+      {
+        "name": "San Juan"
+      },
+      {
+        "name": "Santa Ana"
+      },
+      {
+        "name": "Greensboro"
+      },
+      {
+        "name": "Pittsburgh"
+      },
+      {
+        "name": "Jersey City"
+      },
+      {
+        "name": "St. Louis"
+      },
+      {
+        "name": "Lincoln"
+      },
+      {
+        "name": "Durham"
+      },
+      {
+        "name": "Anchorage"
+      },
+      {
+        "name": "Plano"
+      },
+      {
+        "name": "Chandler"
+      },
+      {
+        "name": "Chula Vista"
+      },
+      {
+        "name": "Buffalo"
+      },
+      {
+        "name": "Gilbert"
+      },
+      {
+        "name": "Madison"
+      },
+      {
+        "name": "Reno"
+      },
+      {
+        "name": "North Las Vegas"
+      },
+      {
+        "name": "Toledo"
+      },
+      {
+        "name": "Fort Wayne"
+      },
+      {
+        "name": "Irving"
+      },
+      {
+        "name": "Lubbock"
+      },
+      {
+        "name": "St. Petersburg"
+      },
+      {
+        "name": "Laredo"
+      },
+      {
+        "name": "Chesapeake"
+      },
+      {
+        "name": "Winston-Salem"
+      },
+      {
+        "name": "Glendale"
+      },
+      {
+        "name": "Garland"
+      },
+      {
+        "name": "Scottsdale"
+      },
+      {
+        "name": "Arlington"
+      },
+      {
+        "name": "Enterprise"
+      },
+      {
+        "name": "Boise"
+      },
+      {
+        "name": "Santa Clarita"
+      },
+      {
+        "name": "Norfolk"
+      },
+      {
+        "name": "Fremont"
+      },
+      {
+        "name": "Spokane"
+      },
+      {
+        "name": "Richmond"
+      },
+      {
+        "name": "Baton Rouge"
+      },
+      {
+        "name": "San Bernardino"
+      },
+      {
+        "name": "Tacoma"
+      },
+      {
+        "name": "Spring Valley"
+      },
+      {
+        "name": "Hialeah"
+      },
+      {
+        "name": "Huntsville"
+      },
+      {
+        "name": "Modesto"
+      },
+      {
+        "name": "Frisco"
+      },
+      {
+        "name": "Des Moines"
+      },
+      {
+        "name": "Yonkers"
+      },
+      {
+        "name": "Port St. Lucie"
+      },
+      {
+        "name": "Moreno Valley"
+      },
+      {
+        "name": "Worcester"
+      },
+      {
+        "name": "Rochester"
+      },
+      {
+        "name": "Fontana"
+      },
+      {
+        "name": "Columbus"
+      },
+      {
+        "name": "Fayetteville"
+      },
+      {
+        "name": "Sunrise Manor"
+      },
+      {
+        "name": "McKinney"
+      },
+      {
+        "name": "Little Rock"
+      },
+      {
+        "name": "Augusta"
+      },
+      {
+        "name": "Oxnard"
+      },
+      {
+        "name": "Salt Lake City"
+      },
+      {
+        "name": "Amarillo"
+      },
+      {
+        "name": "Overland Park"
+      },
+      {
+        "name": "Cape Coral"
+      },
+      {
+        "name": "Grand Rapids"
+      },
+      {
+        "name": "Huntington Beach"
+      },
+      {
+        "name": "Sioux Falls"
+      },
+      {
+        "name": "Grand Prairie"
+      },
+      {
+        "name": "Montgomery"
+      },
+      {
+        "name": "Tallahassee"
+      },
+      {
+        "name": "Birmingham"
+      },
+      {
+        "name": "Peoria"
+      },
+      {
+        "name": "Glendale"
+      },
+      {
+        "name": "Vancouver"
+      },
+      {
+        "name": "Providence"
+      },
+      {
+        "name": "Knoxville"
+      },
+      {
+        "name": "Brownsville"
+      },
+      {
+        "name": "Akron"
+      },
+      {
+        "name": "Newport News"
+      },
+      {
+        "name": "Fort Lauderdale"
+      },
+      {
+        "name": "Mobile"
+      },
+      {
+        "name": "Shreveport"
+      },
+      {
+        "name": "Paradise"
+      },
+      {
+        "name": "Tempe"
+      },
+      {
+        "name": "Chattanooga"
+      },
+      {
+        "name": "Cary"
+      },
+      {
+        "name": "Eugene"
+      },
+      {
+        "name": "Elk Grove"
+      },
+      {
+        "name": "Santa Rosa"
+      },
+      {
+        "name": "Salem"
+      },
+      {
+        "name": "Ontario"
+      },
+      {
+        "name": "Aurora"
+      },
+      {
+        "name": "Lancaster"
+      },
+      {
+        "name": "Rancho Cucamonga"
+      },
+      {
+        "name": "Oceanside"
+      },
+      {
+        "name": "Fort Collins"
+      },
+      {
+        "name": "Pembroke Pines"
+      },
+      {
+        "name": "Clarksville"
+      },
+      {
+        "name": "Palmdale"
+      },
+      {
+        "name": "Garden Grove"
+      },
+      {
+        "name": "Springfield"
+      },
+      {
+        "name": "Hayward"
+      },
+      {
+        "name": "Salinas"
+      },
+      {
+        "name": "Alexandria"
+      },
+      {
+        "name": "Paterson"
+      },
+      {
+        "name": "Murfreesboro"
+      },
+      {
+        "name": "Bayamon"
+      },
+      {
+        "name": "Sunnyvale"
+      },
+      {
+        "name": "Kansas City"
+      },
+      {
+        "name": "Lakewood"
+      },
+      {
+        "name": "Killeen"
+      },
+      {
+        "name": "Corona"
+      },
+      {
+        "name": "Bellevue"
+      },
+      {
+        "name": "Springfield"
+      },
+      {
+        "name": "Charleston"
+      },
+      {
+        "name": "Hollywood"
+      },
+      {
+        "name": "Roseville"
+      },
+      {
+        "name": "Pasadena"
+      },
+      {
+        "name": "Escondido"
+      },
+      {
+        "name": "Pomona"
+      },
+      {
+        "name": "Mesquite"
+      },
+      {
+        "name": "Naperville"
+      },
+      {
+        "name": "Joliet"
+      },
+      {
+        "name": "Savannah"
+      },
+      {
+        "name": "Jackson"
+      },
+      {
+        "name": "Bridgeport"
+      },
+      {
+        "name": "Syracuse"
+      },
+      {
+        "name": "Surprise"
+      },
+      {
+        "name": "Rockford"
+      },
+      {
+        "name": "Torrance"
+      },
+      {
+        "name": "Thornton"
+      },
+      {
+        "name": "Kent"
+      },
+      {
+        "name": "Fullerton"
+      },
+      {
+        "name": "Denton"
+      },
+      {
+        "name": "Visalia"
+      },
+      {
+        "name": "McAllen"
       }
     ]
   },
