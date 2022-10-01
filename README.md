@@ -39,20 +39,6 @@ Kindly add more widely used and relevant datasets in CSV_Data folder to help oth
 - Indian Engineering collage names
 - Country and City name with codes
 
-## How to contribute? 🧐
-
-We recommend you to go through the [CONTRIBUTING.md](https://github.com/Clueless-Community/first-contribution/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
-
-+ [This]() is the website we have created for our first time contributors, routing to the [contributors](https://clueless.vercel.app/allcontributors) page, you will see a few cards with some details of the contributor.
-
-
-[![image](https://www.linkpicture.com/q/contributionCard.png)](https://www.linkpicture.com/view.php?img=LPic6337cb9eb9c08930623349)
-
-
-+ Now, to get your contributiors card, you have to contribute to this repository, following our guidelines.
-
- Once the pull request is merged, you will find your awesome contribution card on our website.
-
 ## Need help? 
 We have an awesome Discord community where you can ask your doubts and we will be there for your help and even you can help others to make their contribution 🫂.
 
