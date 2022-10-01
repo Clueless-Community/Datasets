@@ -528,6 +528,7 @@ const engineeringColleges = ['A G Patil Institute of Technology',
     'JSS Science and Technology University',
     'Jyothi Engineering College',
     'Jyothy Institute of Technology',
+    'Jaywantrao Shikshan Prasark Mandal Bhivrabai Sawant Institute of Technology and Research '
     'K J College of Engineering & Management Research',
     'K S Institute of Technology, Bangalore',
     'K. G. Reddy College of Engineering & Technology',
