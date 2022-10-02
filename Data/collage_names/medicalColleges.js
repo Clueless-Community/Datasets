@@ -63,6 +63,7 @@ const medicalColleges = [
     'Institute of Post Graduate Medical Education & Research',
     'Jamia Hamdard',
     'Jawaharlal Institute of Post Graduate Medical Education & Research',
+    'pandit jawaharlal nehru homoeopathic medical college kanpur',
     'JAWAHARLAL NEHRU MEDICAL COLLEGE',
     'JSS College of Physiotherapy',
     'JSS Medical College, Mysore',
