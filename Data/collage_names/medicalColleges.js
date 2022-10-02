@@ -19,6 +19,7 @@ const medicalColleges = [
     'Bharati Vidyapeeth Deemed University Medical College & Hospital Sangli',
     'BISHOP BENZIGER COLLEGE OF NURSING',
     'BVV Sangha`s S. Nijalingappa Medical College',
+    'Calcutta National Medical College & Hospital, West Bengal',
     'Central Institute of Psychiatry',
     'Chalmeda Ananda Rao Institute of Medical Sciences, Karimnagar',
     'Chettinad Academy of Research and Education',
@@ -92,6 +93,7 @@ const medicalColleges = [
     'Medical College',
     'Meenakshi Academy of Higher Education and Research',
     'MGM Institute of Health Sciences, Navi Mumbai',
+    'Midnapore Medical College and Hospital, West Bengal',
     'MNR Medical College, Sanagareddy',
     'Narayana Medical College, Nellore',
     'National Institute of Ayurveda, Jaipur',
@@ -113,6 +115,7 @@ const medicalColleges = [
     'RAMA UNIVERSITY UTTAR PRADESH',
     'Regional Institute of Medical Sciences',
     'Rukmani Ben DeepchandGardi Medical College, Charitable Hospital, Ujjain',
+    'R.G.Kar Medical College and Hospital, West Bengal'
     'S.R.M. Institute of Science and Technology',
     'S.R.M.S. Institute of Medical Sciences',
     'Sanjay Gandhi Postgraduate Institute of Medical Sciences',
