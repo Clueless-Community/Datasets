@@ -99,6 +99,7 @@ const medicalColleges = [
     'National Institute of Ayurveda, Jaipur',
     'National Institute of Mental Health & Neuro Sciences, Bangalore',
     'Nehru College of Nursing',
+    'Pandit jawaharlal nehru homoeopathic medical college kanpur',
     'P.D.U. Medical College, Rajkot',
     'Pad. Dr. V.V. Patil Foundations Medical College, Ahmednagar.',
     'Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai',
