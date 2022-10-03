@@ -84,6 +84,5 @@ const techstack = [
   "Unity",
   "Elixir",
   "Express",
-
-
+  "Vue js"
 ];
