@@ -81,4 +81,14 @@ const techstack = [
   { name: "VechaiUI" },
   { name: "React Admin" },
   { name: "react-md" },
+  { name: "SQLite" },
+  { name: "Ember.js" },
+  { name: "Backbone.js" },
+  { name: "Svelte" },
+  { name: "Semantic UI" },
+  { name: "Preact" },
+  { name: "IoT" },
+  { name: "Koa" },
+  { name: "Phoenix framework" },
+  { name: "Cake PHP" }
 ];
