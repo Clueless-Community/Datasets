@@ -68,6 +68,7 @@ const techstack = [
   { name: "Pytorch" },
   { name: "Strapi" },
   { name: "Chakra UI" },
+  { name: "Vue js" },
   { name: "Blueprint UI" },
   { name: "Semantic UI React" },
   { name: "Ant Design" },
