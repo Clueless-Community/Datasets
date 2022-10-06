@@ -1,6 +1,6 @@
 # All Datasets
 ## DATA
-- [STUDENTSPERFORMANCE](.\Data\StudentsPerformance.csv)
+- [STUDENTSPERFORMANCE](./Data/StudentsPerformance.csv)
 
 ## COLLAGE_NAMES
 - [ARCHITECTURECOLLEGES](.\Data\collage_names\architectureColleges.js)
