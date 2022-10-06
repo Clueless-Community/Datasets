@@ -1,6 +1,4 @@
 # All Datasets
-## DATA
-- [STUDENTSPERFORMANCE](./Data/StudentsPerformance.csv)
 
 ## COLLAGE_NAMES
 - [ARCHITECTURECOLLEGES](./Data/collage_names/architectureColleges.js)
@@ -55,6 +53,9 @@
 - [STUDENTP](./Data/CSV_Data/studentp.csv)
 - [SUICIDE](./Data/CSV_Data/suicide.csv)
 - [VOICE](./Data/CSV_Data/voice.csv)
+
+## PERFORMACE_DATA
+- [STUDENTSPERFORMANCE](./Data/performace_data/StudentsPerformance.csv)
 
 ## TECHSTACK
 - [TECHSTACK](./Data/techstack/techstack.js)
