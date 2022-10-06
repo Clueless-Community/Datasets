@@ -1,4 +1,6 @@
-# All Datasets
+# All Datasets## DATA
+- [STUDENTSPERFORMANCE](.\Data\StudentsPerformance.csv)
+
 ## COLLAGE_NAMES
 - [ARCHITECTURECOLLEGES](.\Data\collage_names\architectureColleges.js)
 - [COLLAGE_LIST_JSON](.\Data\collage_names\collage_list_json.js)
@@ -31,6 +33,7 @@
 - [CROPS_PRODUCTION](.\Data\CSV_Data\crops_production.csv)
 - [DIAMONDS](.\Data\CSV_Data\diamonds.csv)
 - [EARTHQUAKE](.\Data\CSV_Data\earthquake.csv)
+- [ECOMMERCE-FLIPKART](.\Data\CSV_Data\ecommerce-flipkart.csv)
 - [EXERCISE](.\Data\CSV_Data\exercise.csv)
 - [FISH](.\Data\CSV_Data\Fish.csv)
 - [FLAVORS_OF_COCOA](.\Data\CSV_Data\flavors_of_cocoa.csv)
