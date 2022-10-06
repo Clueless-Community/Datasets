@@ -6,14 +6,14 @@ import os
 data_path = os.path.join(".", "Data")
 
 with open("DATASETS.md", "w") as mdFile:
-    mdFile.write(f"# All Datasets")
+    mdFile.write(f"# All Datasets\n")
     for root, folders, files in os.walk(data_path):
         baseName = os.path.basename(root)
         if len(files) > 0:
             mdFile.write(f"## {baseName.upper()}\n")
             for f in files:
                 title = f.split(".")[0].upper()
-                dirName = os.path.dirname(__name__)
+                # dirName = os.path.dirname(__name__)
                 link = os.path.join(root, f)
                 content = f"- [{title}]({link})"
                 mdFile.write(content)
