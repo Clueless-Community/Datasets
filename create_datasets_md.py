@@ -14,7 +14,7 @@ with open("DATASETS.md", "w") as mdFile:
             for f in files:
                 title = f.split(".")[0].upper()
                 dirName = os.path.dirname(__name__)
-                link = os.path.join(dirName, root, f)
+                link = os.path.join(root, f)
                 content = f"- [{title}]({link})"
                 mdFile.write(content)
                 mdFile.write("\n")
