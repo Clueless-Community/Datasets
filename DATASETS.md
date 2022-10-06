@@ -1,4 +1,4 @@
-# All Datasets## DATA
+# All Datasets
 - [STUDENTSPERFORMANCE](.\Data\StudentsPerformance.csv)
 
 ## COLLAGE_NAMES
