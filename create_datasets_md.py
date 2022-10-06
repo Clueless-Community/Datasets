@@ -1,5 +1,7 @@
 '''
 target: create a python script to automate the datasets.md file updation every time there is change in the data folder files.
+This folder should not be changes unless the related changes are updated in this script.
+Avoid spaces while naming the file/folder
 '''
 import os
 
@@ -13,8 +15,11 @@ with open("DATASETS.md", "w") as mdFile:
             mdFile.write(f"## {baseName.upper()}\n")
             for f in files:
                 title = f.split(".")[0].upper()
-                # dirName = os.path.dirname(__name__)
                 link = os.path.join(root, f)
+                # exception case
+                # in windows file path contains \ instead of / but git accepts / as relative path else it gives 404 error
+                while "\\" in link:
+                    link = link.replace("\\", "/")
                 content = f"- [{title}]({link})"
                 mdFile.write(content)
                 mdFile.write("\n")
