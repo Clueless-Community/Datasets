@@ -84,6 +84,15 @@ const techstack = [
   "Unity",
   "Elixir",
   "Express",
-
-
+  "Vue js",
+  "Electron js",
+  "Golang",
+  "Phtml",
+  "Ruby on rails",
+  "Unity",
+  "Unreal Engine",
+  "C#",
+  "SCSS",
+  "Tailwind",
+  "Bootstrap"
 ];

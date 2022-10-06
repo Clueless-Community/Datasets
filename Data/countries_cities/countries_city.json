@@ -1657,6 +1657,119 @@
     ]
   },
   {
+  "country": "China",
+  "cities": [
+    {
+      "name": "Hong Kong"
+    },
+    {
+      "name": "Macau"
+    },
+    {
+      "name": "Beijing"
+    },
+    {
+      "name": "Chongqing"
+    },
+    {
+      "name": "Shanghai"
+    },
+    {
+      "name": "Tianjin"
+    },
+    {
+      "name": "Anqing"
+    },
+    {
+      "name": "Bozhou"
+    },
+    {
+      "name": "Chaohu"
+    },
+    {
+      "name": "Chizhou"
+    },
+    {
+      "name": "Chuzhou"
+    },
+    {
+      "name": " Fuyang"
+    },
+    {
+      "name": "Guangde"
+    },
+    {
+      "name": "Hefei"
+    },
+    {
+      "name": "Huaibei"
+    },
+    {
+      "name": "Huainan"
+    },
+    {
+      "name": "Huangshan"
+    },
+    {
+      "name": "Jieshou"
+    },
+    {
+      "name": "Lu'an"
+    },
+    {
+      "name": "Ma'anshan"
+    },
+    {
+      "name": "Mingguang"
+    },
+    {
+      "name": " Ningguo"
+    },
+    {
+      "name": "Qianshan"
+    },
+    {
+      "name": "Suzhou"
+    },
+    {
+      "name": "Tianchang"
+    },
+    {
+      "name": "Tongcheng"
+    },
+    {
+      "name": "Tongling"
+    },
+    {
+      "name": "Wuhu"
+    },
+    {
+      "name": "Wuwei"
+    },
+    {
+      "name": "Xuancheng"
+    },
+    {
+      "name": "Fu'an"
+    },
+    {
+      "name": "Fuding"
+    },
+    {
+      "name": "Fuqing"
+    },
+    {
+      "name": "Fuzhou"
+    },
+    {
+      "name": "Jian'ou"
+    },
+    {
+      "name": "Jinjiang"
+    }
+  ]
+},
+  {
     "country": "Sweden",
     "cities": [
       { "name": "Alingsås" },
