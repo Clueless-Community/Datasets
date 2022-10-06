@@ -20,7 +20,7 @@ with open("DATASETS.md", 'w') as mdFile:
                 link = os.path.join(root, f)
                 while "\\" in link:
                     link = link.replace("\\", "/")
-                content = f"[{title}]({link})"
+                content = f"[{title}]({link})\n\n"
                 mdFile.write(content)
                 mdFile.write("\n")
             mdFile.write("\n")
