@@ -16,7 +16,6 @@ with open("DATASETS.md", 'w') as mdFile:
             baseName = os.path.basename(root)
             mdFile.write(f"### {baseName.upper()}\n")
             for f in files:
-                title, link = '', ''
                 title = f.split(".")[0].upper()
                 link = os.path.join(root, f)
                 while "\\" in link:
@@ -25,5 +24,6 @@ with open("DATASETS.md", 'w') as mdFile:
                 mdFile.write(content)
                 mdFile.write("\n")
             mdFile.write("\n")
-        pass
+
+mdFile.close()
         
