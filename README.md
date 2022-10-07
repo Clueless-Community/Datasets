@@ -36,7 +36,7 @@ Kindly add more widely used and relevant datasets in CSV_Data folder to help oth
 
 ### Dataset Available :-
 - Techstack collection
-- Indian Engineering collage names
+- Indian Engineering college names
 - Country and City name with codes
 
 ## Need help? 

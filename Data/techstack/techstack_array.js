@@ -94,5 +94,15 @@ const techstack = [
   "C#",
   "SCSS",
   "Tailwind",
-  "Bootstrap"
+  "Bootstrap",
+  "SQLite",
+  "Ember.js",
+  "Backbone.js",
+  "Svelte",
+  "Semantic UI",
+  "Preact",
+  "IoT",
+  "Koa",
+  "Phoenix framework",
+  "Cake PHP"
 ];
