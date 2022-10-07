@@ -91,5 +91,16 @@ const techstack = [
   { name: "IoT" },
   { name: "Koa" },
   { name: "Phoenix framework" },
-  { name: "Cake PHP" }
+  { name: "Cake PHP" },
+  { name: "Ansible" },
+  { name: "Docker" },
+  { name: "Carbon" },
+  { name: "Autocad" },
+  { name: "Material UI" },
+  { name: "Podman" },
+  { name: "Elixir" },
+  { name: "DynamoDB" },
+  { name: "Figma" },
+  { name: "Blender" }
+    
 ];
