@@ -1318,6 +1318,7 @@ const colleges = [
     'Ramanbhai Patel College of Pharmacy',
     'Ramgarh College, Ramgarh',
     'Rami Reddy Subbarami Reddy Engineering College',
+    'Ramkrishna Mahato Government Engineering College',
     'Ramkrishna Paramhansa Mahavidhyalaya',
     'Ranchi University, Ranchi',
     'Rani Anna Government College for Women',

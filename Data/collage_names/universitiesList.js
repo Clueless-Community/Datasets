@@ -7,6 +7,7 @@ const universities = [
   "Banaras Hindu University",
   "Manipal Academy of Higher Education, Manipal",
   "Calcutta University",
+  "Maulana Abul Kalam Azad University of Technology, West Bengal",
   "Vellore Institute of Technology",
   "University of Hyderabad",
   "Aligarh Muslim University",

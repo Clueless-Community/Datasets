@@ -115,7 +115,7 @@ const medicalColleges = [
     'RAMA UNIVERSITY UTTAR PRADESH',
     'Regional Institute of Medical Sciences',
     'Rukmani Ben DeepchandGardi Medical College, Charitable Hospital, Ujjain',
-    'R.G.Kar Medical College and Hospital, West Bengal'
+    'R.G.Kar Medical College and Hospital, West Bengal',
     'S.R.M. Institute of Science and Technology',
     'S.R.M.S. Institute of Medical Sciences',
     'Sanjay Gandhi Postgraduate Institute of Medical Sciences',
