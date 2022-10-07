@@ -23,5 +23,5 @@ jobs:
       uses: actions/setup-python@v3
     - name: Update Readme
       run: |
-        create_datasets_md.py
+        python create_datasets_md.py
       
