@@ -101,4 +101,5 @@ const universities = [
   "Birla Institute of Technology",
   "Dr. M. G. R. Educational and Research Institute",
   "Netaji Subhas University of Technology",
+  "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
 ];
