@@ -153,6 +153,13 @@
 [VOICE](./Data/CSV_Data/voice.csv)
 
 
+[CHESS](./Data/CSV_Data/chess_games.csv)
+
+
+[IPL](./Data/CSV_Data/IPL_games.csv)
+
+
+[NBA](./Data/CSV_Data/nba_games.csv)
 
 ### PERFORMACE_DATA
 [STUDENTSPERFORMANCE](./Data/performace_data/StudentsPerformance.csv)
