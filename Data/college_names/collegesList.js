@@ -1874,5 +1874,15 @@ const colleges = [
     'Yeshwantrao Chavan College of Engineering',
     'Yeshwantrao Chavan Science College',
     'Yogada Satsanga Palpara Mahavidyalaya',
-    'Yogi Vemana University'
+    'Yogi Vemana University',
+    'P. D Pandya Institute of Computer Applications',
+    'Ahmedabad University',
+    'Gujarat Law Society University',
+    'B. D. Arts College',
+    'Indian Institute Of Management - Ahmedabad',
+    'ST Xavier College',
+    'GLA Institute of Computer Application',
+    'HL College of Commerce',
+    'LJ Institute of computer application',
+    'Navgujarat college of computer applications'
 ]
