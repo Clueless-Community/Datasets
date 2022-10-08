@@ -101,4 +101,7 @@ const universities = [
   "Birla Institute of Technology",
   "Dr. M. G. R. Educational and Research Institute",
   "Netaji Subhas University of Technology",
+  "University of Rajasthan",
+  "Nirma University",
+  "GLS University"
 ];
