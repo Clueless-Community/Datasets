@@ -1,5 +1,6 @@
 const pharmacyColleges = [
     'A.R.A. COLLEGE OF PHARMACY, DHULE',
+    'ABESIT College Of Pharmacy, Ghaziabad' ,
     'Abhilashi University',
     'Acharya & B M Reddy College of Pharmacy',
     'Acharya Nagarjuna University College of Science',
