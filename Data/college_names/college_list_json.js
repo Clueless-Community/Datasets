@@ -1067,6 +1067,7 @@
     name: "SVKP and Dr. Kalidindi Suryanarayana Raju Arts and Science College",
   },
   { name: "Sagi Ramakrishnam Raju Engineering College - SRKR" },
+  { name: "Sagar Institute of Research & Technology - SIRT" },
   { name: "Sahrdaya College of Engineering and Technology" },
   { name: "Sai-Sudhir Post Graduate College" },
   { name: "Sakthi Mariamman Engineering College - SMEC" },
