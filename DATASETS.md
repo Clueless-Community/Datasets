@@ -4,41 +4,41 @@
 
 
 
-### COLLAGE_NAMES
-[ARCHITECTURECOLLEGES](./Data/collage_names/architectureColleges.js)
+### college_names
+[ARCHITECTURECOLLEGES](./Data/college_names/architectureColleges.js)
 
 
-[COLLAGE_LIST_JSON](./Data/collage_names/collage_list_json.js)
+[COLLEGE_LIST_JSON](./Data/college_names/college_list_json.js)
 
 
-[COLLEGESLIST](./Data/collage_names/collegesList.js)
+[COLLEGESLIST](./Data/college_names/collegesList.js)
 
 
-[DENTALCOLLEGES](./Data/collage_names/dentalColleges.js)
+[DENTALCOLLEGES](./Data/college_names/dentalColleges.js)
 
 
-[ENGINEERINGCOLLEGES](./Data/collage_names/engineeringColleges.js)
+[ENGINEERINGCOLLEGES](./Data/college_names/engineeringColleges.js)
 
 
-[HELPER](./Data/collage_names/helper.js)
+[HELPER](./Data/college_names/helper.js)
 
 
-[LAWCOLLEGES](./Data/collage_names/lawColleges.js)
+[LAWCOLLEGES](./Data/college_names/lawColleges.js)
 
 
-[MANAGEMENTCOLLEGES](./Data/collage_names/managementColleges.js)
+[MANAGEMENTCOLLEGES](./Data/college_names/managementColleges.js)
 
 
-[MEDICALCOLLEGES](./Data/collage_names/medicalColleges.js)
+[MEDICALCOLLEGES](./Data/college_names/medicalColleges.js)
 
 
-[PHARMACYCOLLEGES](./Data/collage_names/pharmacyColleges.js)
+[PHARMACYCOLLEGES](./Data/college_names/pharmacyColleges.js)
 
 
-[RESEARCHCOLLEGES](./Data/collage_names/researchColleges.js)
+[RESEARCHCOLLEGES](./Data/college_names/researchColleges.js)
 
 
-[UNIVERSITIESLIST](./Data/collage_names/universitiesList.js)
+[UNIVERSITIESLIST](./Data/college_names/universitiesList.js)
 
 
 
