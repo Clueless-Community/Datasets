@@ -43,6 +43,8 @@ git config --global user.email "email address"
 - create a pull request
 CLick on contribute and create a pull request.
 ![Screenshot from 2022-10-09 15-42-18](https://user-images.githubusercontent.com/46648301/194751130-a9424072-9c3c-49cc-9060-d8bfcb338b62.png)
+![Screenshot from 2022-10-09 15-48-04](https://user-images.githubusercontent.com/46648301/194751275-3bfe44a5-4f73-4f9c-8ce0-b031f3a0a409.png)
+![Screenshot from 2022-10-09 15-48-20](https://user-images.githubusercontent.com/46648301/194751280-21c8378e-02bd-4a6c-a314-bb17ebdaa611.png)
 
 - And also describe a bit what changes made and try to attach screenshots.
 
