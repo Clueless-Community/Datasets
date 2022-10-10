@@ -33,6 +33,27 @@
         "name": "Jaipur"
       },
       {
+        "name": "Prayagraj"
+      },
+      {
+        "name": "Una"
+      },
+      {
+        "name": "Mandi"
+      },
+      {
+        "name": "Panaji"
+      },
+      {
+        "name": "Dispur"
+      },
+      {
+        "name": "Shillong"
+      },
+      {
+        "name": "Dharamshala"
+      },
+      {
         "name": "Lucknow"
       },
       {
@@ -1653,6 +1674,18 @@
       },
       {
         "name": "Birmingham"
+      },
+      {
+        "name": "Durham"
+      },
+      {
+        "name":"Nottingham"
+      },
+      {
+        "name":"Preston"
+      },
+      {
+        "name":"Winchester"
       }
     ]
   },
@@ -1907,5 +1940,327 @@
       { "name": "Östersund" },
       { "name": "Östhammar" }
     ]
+  },
+{
+
+ "country" : "Norway",
+
+ "cities": [
+
+  {
+    "name": "Oslo"
+
+  }, 
+
+  {
+    "name": "Bergen" 
+    
+  }, 
+
+  {
+    "name": "Trondheim"
+    
+  }, 
+
+  {
+    "name": "Stavanger" 
+  
+  }, 
+
+  {
+    "name": "Drammen" 
+    
+  }, 
+
+  {
+    "name": "Kristiansand"
+
+  }, 
+
+  {
+    "name": "Fredrikstad"
+    
+  }, 
+
+  {
+    "name": "Skien" 
+
+  }, 
+
+  {
+    "name": "Sandefjord"
+
+  }, 
+
+  {
+    "name": "Asker"
+
+  }, 
+
+  {
+    "name": "Nordre Fåle"
+
+  },
+ 
+  {
+    "name": "Sandnes" 
+    
+  },
+ 
+  {
+    "name": "Tønsberg"
+
+  },
+ 
+  {
+    "name": "Sarpsborg" 
+    
+  }, 
+
+  {
+    "name": "Ålesund"
+ 
+  }, 
+
+  {
+    "name": "Bodø" 
+
+  }, 
+
+  {
+    "name": "Moss" 
+
+  }, 
+
+  {
+    "name": "Lørenskog"
+ 
+  }, 
+
+  {
+    "name": "Tromsø" 
+
+  }, 
+
+  {
+    "name": "Haugesund"
+
+  }, 
+
+  {
+    "name": "Porsgrunn"
+
+  }, 
+
+  {
+    "name": "Ringsaker"
+
+  }, 
+
+  {
+    "name": "Molde"
+
+  }, 
+
+  {
+    "name": "Halden"
+
+  }, 
+
+  {
+    "name": "Arendal"
+
+  }, 
+
+  {
+    "name": "Ski"
+
+  }, 
+
+  {
+    "name": "Askøy"
+
+  }, 
+
+  {
+    "name": "Lillehammer" 
+
+  }, 
+
+  {
+    "name": "Hamar"
+
+  }, 
+
+  {
+    "name": "Kongsberg"
+ 
+  }, 
+
+  {
+    "name": "Oppegård" 
+
+  },
+ 
+  {
+    "name": "Sola"
+
+  }, 
+
+  {
+    "name": "Lier"
+
+  }, 
+  
+  {
+    "name": "Nedre Eiker" 
+
+  }, 
+
+  {
+    "name": "Larvik"
+
+  }, 
+
+  {
+    "name": "Nittedal"
+
+  },
+ 
+  {
+    "name": "Stjørdal"
+
+  },
+ 
+  {
+    "name": "Røyken"
+
+  },
+ 
+  {
+    "name": "Nøtterøy"
+
+  }, 
+
+  {
+    "name": "Elverum"
+
+  }, 
+
+  {
+    "name": "Harstad"
+
+  }, 
+
+  {
+    "name": "Stange"
+
+  }, 
+
+  {
+    "name": "Gjøvik"
+
+  }, 
+
+  {
+    "name": "Horten"
+
+  }, 
+
+  {
+    "name": "Ås"
+
+  }, 
+
+  {
+    "name": "Os"
+
+  },
+ 
+  {
+    "name": "Nesoddtangen"
+
+  }, 
+
+  {
+    "name": "Kleppe"
+
+  }, 
+
+  {
+    "name": "Time"
+
+  }, 
+
+  {
+    "name": "Mo i Rana"
+
+  }, 
+
+  {
+    "name": "Stord"
+
+  }, 
+
+  {
+    "name": "Kristiansund"
+
+  }, 
+
+  {
+    "name": "Sørum"
+
+  },
+ 
+  {
+    "name": "Vestby"
+
+  }, 
+
+  {
+    "name": "Kosvik"
+
+  }, 
+
+  {
+    "name": "Kongsvinger"
+
+  }, 
+
+  {
+    "name": "Rygge"
+
+  }, 
+  {
+    "name": "Frogn" 
+    
+  }, 
+
+  {
+    "name": "Voss"
+
+  },
+ 
+  {
+    "name": "Lindås"
+
+  }, 
+
+  {
+    "name": "Mandal"
+
+  }, 
+
+  {
+    "name": "Alta"
+
+  }, 
+
+  {
+    "name": "Verdal"
+
   }
+]
+}
+  
 ]
