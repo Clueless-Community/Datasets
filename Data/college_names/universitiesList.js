@@ -103,5 +103,18 @@ const universities = [
   "Netaji Subhas University of Technology",
   "University of Rajasthan",
   "Nirma University",
-  "GLS University"
+  "GLS University",
+  "University of Hyderabad",
+  "Maulana Abul Kalam Azad University Of Technology",
+  "Kaji Najrul University",
+  "Thappar University",
+  "Aliah University",
+  "Bidhan Chandra Krishi Viswavidyalaya",
+  "Presidency University",
+  "Vidyasagar University",
+  "Bengal Engineering & Science University",
+  "Goa University",
+  "Guru Gobind Singh Indraprastha University",
+  "National Law University, Delhi"
+
 ];
