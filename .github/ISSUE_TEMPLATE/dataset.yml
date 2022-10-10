@@ -1,0 +1,26 @@
+name: 🚀 Add Dataset
+description: Have a new dataset? Please add!
+title: "[Add Dataset] <description>"
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief description of the dataset that you want to include
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Please add screenshots if applicable
+    validations:
+      required: false
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Additional information
+      description: Is there anything else we should know about this idea?
+    validations:
+      required: false
