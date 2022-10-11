@@ -105,5 +105,5 @@ const techstack = [
   "Koa",
   "Phoenix framework",
   "Cake PHP",
-  "Durpal"
+  "Drupal"
 ];
