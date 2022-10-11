@@ -102,5 +102,27 @@ const techstack = [
   { name: "DynamoDB" },
   { name: "Figma" },
   { name: "Blender" }
-    
+  { name: "Spring" }
+  { name: "Apache Kafka" }   
+  { name: "Elastic" }
+  { name: "Logstash" }
+  { name: "Kibana" }
+  { name: "Graphana" } 
+  { name: "Prometheus" }
+  { name: "ViteJS" }
+  { name: "Redis" }
+  { name: "Voldemort" }
+  { name: "Apache Cassandra" }
+  { name: "CockroachDB" }
+  { name: "Neo4j" }
+  { name: "PostgreSQL" }
+  { name: "MariaDB" }
+  { name: "Apache HBase" }
+  { name: "MariaDB" }
+  { name: "Apache CouchDB" }
+  { name: "Java" }
+  { name: "R" }
+  { name: "C#" }
+  { name: "Unity" }
+  { name: "Julia" }
 ];
