@@ -43,3 +43,17 @@ Kindly add more widely used and relevant datasets in CSV_Data folder to help oth
 We have an awesome Discord community where you can ask your doubts and we will be there for your help and even you can help others to make their contribution 🫂.
 
 Check our Discord Server [here](https://discord.gg/r5uKBGxT9T).
+
+### Most active contributors 🚀
+<hr>
+<p align="start">
+<a  href="https://github.com/Clueless-Community/Datasets/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Clueless-Community/Datasets" />
+</a>
+</p>
+</br>
+
+### Thank you everyone! 💚
+<hr>
+<p align="start">
+A heartfelt thank you to those who have contributed to this project. We are really grateful towards your contribution. <br/> You all are amazing. Opensource for the win 🚀 </p>
