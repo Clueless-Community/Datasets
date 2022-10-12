@@ -44,6 +44,20 @@ We have an awesome Discord community where you can ask your doubts and we will b
 
 Check our Discord Server [here](https://discord.gg/r5uKBGxT9T).
 
+---
+<h2 align='center'> Project maintainers </h2>
+<table align='center'>
+<tr>
+    <td align="center">
+        <a href="https://github.com/nikhil25803">
+            <img src="https://avatars.githubusercontent.com/u/93156825?v=4" width="100;" alt="Nikhil Raj"/>
+            <br />
+            <sub><b></b></sub>
+        </a>
+    </td>
+  </tr>
+</table>
+
 ### Most active contributors 🚀
 <hr>
 <p align="start">
