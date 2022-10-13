@@ -124,5 +124,6 @@ const techstack = [
   { name: "R" }
   { name: "C#" }
   { name: "Unity" }
+  { name: "OpenZeppelin" }
   { name: "Julia" }
 ];
