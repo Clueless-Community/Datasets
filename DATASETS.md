@@ -41,6 +41,9 @@
 [UNIVERSITIESLIST](./Data/collage_names/universitiesList.js)
 
 
+[AGRICULTURECOLLEGES](./Data/collage_names/agricultureColleges.js)
+
+
 
 ### COUNTRIES_CITIES
 [COUNTRIES](./Data/countries_cities/countries.json)
