@@ -103,6 +103,7 @@ const techstack = [
   "Preact",
   "IoT",
   "Koa",
+  "OpenZeppelin" ,
   "Phoenix framework",
   "Cake PHP",
   "Drupal"
