@@ -1884,5 +1884,15 @@ const colleges = [
     'GLA Institute of Computer Application',
     'HL College of Commerce',
     'LJ Institute of computer application',
-    'Navgujarat college of computer applications'
+    'Navgujarat college of computer applications',
+    'Sheth M.C. College of Dairy Science',
+    'Som Lalit Institute Of Business Management SLIBM',
+    'Silver Oak College Of Engineering & Technology SOCET',
+    'RB Institute Of Management Studies',
+    'Asia Pacific Institute Of Hotel Management APIM',
+    'Unitedworld School Of Business',
+    'Sardar Patel Institute Of Economics & Social Research',
+    'GLS Shailesh R Parikh Institute Of Computer Technology',
+    'B M Institute Of Mental Health',
+    'Government BBA College, Ahmedabad'
 ]
