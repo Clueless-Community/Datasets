@@ -72,6 +72,12 @@
 [ADULT](./Data/CSV_Data/adult.csv)
 
 
+[BOOKS](./Data/CSV_Data/books.csv)
+
+
+[BOOKS_NEW](./Data/CSV_Data/books_new.csv)
+
+
 [CANADA](./Data/CSV_Data/canada.csv)
 
 
@@ -81,7 +87,13 @@
 [CARS](./Data/CSV_Data/cars.csv)
 
 
+[COUNTRIES_GDP_2021](./Data/CSV_Data/countries_gdp_2021.csv)
+
+
 [CROPS_PRODUCTION](./Data/CSV_Data/crops_production.csv)
+
+
+[DIABETES](./Data/CSV_Data/diabetes.csv)
 
 
 [DIAMONDS](./Data/CSV_Data/diamonds.csv)
@@ -91,6 +103,9 @@
 
 
 [ECOMMERCE-FLIPKART](./Data/CSV_Data/ecommerce-flipkart.csv)
+
+
+[EFFECTS-OF-COVID-19-ON-TRADE-AT-15-DECEMBER-2021](./Data/CSV_Data/effects-of-covid-19-on-trade-at-15-december-2021.csv)
 
 
 [EXERCISE](./Data/CSV_Data/exercise.csv)
@@ -105,6 +120,9 @@
 [FOOD](./Data/CSV_Data/food.csv)
 
 
+[GAMMARAYSDATASET](./Data/CSV_Data/gammaRaysDataset.csv)
+
+
 [GHI_REPORT](./Data/CSV_Data/GHI_Report.csv)
 
 
@@ -112,6 +130,9 @@
 
 
 [GOOGLE_STOCK_PRICES_SINCE_COVID](./Data/CSV_Data/Google_stock_prices_since_COVID.csv)
+
+
+[HEART_DISEASE_DATA](./Data/CSV_Data/heart_disease_data.csv)
 
 
 [HELPDESK](./Data/CSV_Data/helpdesk.csv)
