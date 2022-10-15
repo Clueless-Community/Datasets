@@ -5465,4 +5465,14 @@ const engineeringColleges = ['A1 Global Institute of Engineering and Technology'
 'M.S. Ramaiah University, Bangalore'
 'Symbiosis International university, Pune'
 'SMS Jaipur '
+'Sheth M.C. College of Dairy Science',
+'Som Lalit Institute Of Business Management SLIBM',
+'Silver Oak College Of Engineering & Technology SOCET',
+'RB Institute Of Management Studies',
+'Asia Pacific Institute Of Hotel Management APIM',
+'Unitedworld School Of Business',
+'Sardar Patel Institute Of Economics & Social Research',
+'GLS Shailesh R Parikh Institute Of Computer Technology',
+'B M Institute Of Mental Health',
+'Government BBA College, Ahmedabad'
 ]
