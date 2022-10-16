@@ -5118,6 +5118,35 @@ const engineeringColleges = ['A1 Global Institute of Engineering and Technology'
 'Zeal College of Engineering and Research',
 'Zeal Polytechnic',
 'Zenith Institute of Science and Technology',
+ 'BITS Pilani'
+'BITS Goa'
+'AMITY LUCKNOW'
+'Chandigarh University'
+'VIT Vellore'
+'KIIT, Bhubaneswar'
+'college of engineering Guindy'
+'Madras institute of technology'
+'SSN College of Engineering'
+'Kongu Engineering College'
+'AMRITA UNIVERISTY'
+'Cresent institute of science and technology'
+'SRM Institute of Science and Technology, Chennai'
+'HBTU Kanpur'
+'MMMUT Gorakhpur (UP)'
+'Jaypee Institute of Information Tech. Noida'
+'M.S. Ramaiah University, Bangalore'
+'Symbiosis International university, Pune'
+'SMS Jaipur '
+'Sheth M.C. College of Dairy Science',
+'Som Lalit Institute Of Business Management SLIBM',
+'Silver Oak College Of Engineering & Technology SOCET',
+'RB Institute Of Management Studies',
+'Asia Pacific Institute Of Hotel Management APIM',
+'Unitedworld School Of Business',
+'Sardar Patel Institute Of Economics & Social Research',
+'GLS Shailesh R Parikh Institute Of Computer Technology',
+'B M Institute Of Mental Health',
+'Government BBA College, Ahmedabad'
 'BITS Pilani',
 'BITS Goa',
 'AMITY LUCKNOW',
