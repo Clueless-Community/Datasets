@@ -58,6 +58,7 @@ const universities = [
   "University of Jammu",
   "Bharathidasan University",
   "Gujarat University",
+  "Gujarat Technological University",
   "Tezpur University",
   "Tata Institute of Social Sciences",
   "Shiv Nadar University",
