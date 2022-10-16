@@ -18,26 +18,6 @@ body{
     padding-left: 15%;
     color: rgb(0, 190, 0);
 }
-form{
-    width: 83%;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: center;
-    margin-bottom: 1%;
-}
-#searchKeywordText{
-    height: 30px;
-    width: 300px;
-    border-radius: 5px;
-    border: 2px solid grey;
-    font-family: 'Poppins', sans-serif;
-}
-#clearBtn{
-    border: none;
-    background: none;
-    cursor: pointer;
-}
 #data{
     width:100%;
     display: flex;
@@ -47,7 +27,7 @@ form{
 #datasetContainer{
     display: block;
     width: 1280px;
-    height: fit-content;
+    height: 1200px;
     box-shadow: 0 5px 5px rgb(0, 0, 0,0.2);
 }
 .datasetItem{
@@ -62,10 +42,6 @@ form{
 .fa{
     font-size: 20px;
     color: #1c9dfc;
-}
-.fa-xmark{
-    font-size: 20px;
-    color: black;
 }
 h2{
     display: inline;
