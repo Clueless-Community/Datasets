@@ -1,13 +1,29 @@
-## Description
-<!-- Include a summary of the change made and also list the dependencies that are required if any -->
+<!-- If your PR fixes an open issue, use `Closes #101` to link your PR with the issue. #101 stands for the issue number you are fixing -->
 
----
-## Issue Ticket Number
-Fixes #(issue_number)
+## 🛠️ Fixes Issue
 
----
+<!-- Remove this section if not applicable -->
 
-# Checklist:
-- [ ] I have followed the contributing guidelines of this project as mentioned in [CONTRIBUTING.md](/CONTRIBUTING.md)
-- [ ] I have cross-checked that the dataset I'm uploading is not present in the project
-- [ ] I have cross-checked that the dataset is present in the correct folder 
+<!-- Example: Closes #31 -->
+
+## 👨‍💻 Changes proposed
+
+<!-- List all the proposed changes in your PR -->
+
+## ✔️ Check List (Check all the applicable boxes) <!-- Follow the below conventions to check the box -->
+
+<!-- Mark all the applicable boxes. To mark the box as done follow the following conventions -->
+<!--
+[x] - Correct; marked as done
+[ ] - Not correct; marked as **not** done
+-->
+
+- [ ] My code follows the code style of this project.
+- [ ] This PR does not contain plagiarized content.
+- [ ] The title of my pull request is a short description of the requested changes.
+
+## 📄 Note to reviewers
+
+<!-- Add notes to reviewers if applicable -->
+
+## 📷 Screenshots
