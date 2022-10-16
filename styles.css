@@ -1,0 +1,108 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    padding-top: 5%;
+    overflow-x: hidden;
+}
+#info{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 15%;
+}
+#info h1, p{
+    margin: 5px;
+}
+#totalDatasetsP{
+    padding-left: 15%;
+    color: rgb(0, 190, 0);
+}
+form{
+    width: 83%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 1%;
+}
+#searchKeywordText{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    border: 2px solid grey;
+    font-family: 'Poppins', sans-serif;
+}
+#clearBtn{
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+#data{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#datasetContainer{
+    display: block;
+    width: 1280px;
+    height: fit-content;
+    box-shadow: 0 5px 5px rgb(0, 0, 0,0.2);
+}
+.datasetItem{
+    width: 1200px;
+    height: 100px;
+    padding: 2% 3%;
+    border-bottom: 1px solid rgb(214, 214, 214);
+}
+.datasetItem:hover{
+    background-color: #f0f0f0;
+}
+.fa{
+    font-size: 20px;
+    color: #1c9dfc;
+}
+.fa-xmark{
+    font-size: 20px;
+    color: black;
+}
+h2{
+    display: inline;
+    margin-left: 10px;
+}
+.actions{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.actions i, p{
+    margin-inline: 10px;
+}
+.actions a{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 700px) {
+    #info{
+        padding-left: 2%;
+    }
+    #totalDatasetsP{
+        padding-left: 2%;
+    }
+    #datasetContainer{
+        width: 95%;
+    }
+    .datasetItem{
+        width: 95%;
+    }
+    p{
+        font-size: 8px;
+    }
+    .fa{
+        font-size: 15px;
+    }
+    h2{
+        font-size: 12px;
+    }
+}
