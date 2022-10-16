@@ -2,7 +2,8 @@ import { Octokit } from "https://cdn.skypack.dev/octokit?dts";
 
 const octokit = new Octokit();
 
-var fullData = []
+var fullData = [];
+var filteredResults = [];
 
 async function requestUserRepos(username){
     const res = await octokit.request(`GET /repos/${username}/Datasets/contents/Data`);
@@ -22,7 +23,7 @@ async function requestUserRepos(username){
 function render(){
     document.getElementById("totalDatasets").innerHTML = fullData.length;
     var html = 
-    fullData.map(function (item3) {
+    filteredResults.map(function (item3) {
             return (
                 '<div class="datasetItem">' +
                     `<i class="fa fa-database"></i><h2>${item3.name}</h2>` + '<br/>' + '<br/>' +
@@ -38,6 +39,20 @@ function render(){
     document.getElementById("datasetContainer").innerHTML = html;
 }
 
+document.getElementById("searchKeywordText").addEventListener("input", function filterDatasets(e){
+    e.preventDefault();
+    const searchKeyword = this.value;
+    filteredResults = fullData.filter((item)=>{
+        return item.name.toLowerCase().indexOf(searchKeyword.toLowerCase())!==-1;
+    })
+    setTimeout(render, 1000);
+});
 
+document.getElementById("clearBtn").addEventListener("click", function (e){
+    filteredResults = fullData;
+    render();
+});
+
+setTimeout(function (){filteredResults = fullData;}, 1000);
 requestUserRepos('Clueless-Community');
 setTimeout(render, 1000);
