@@ -125,4 +125,5 @@ const techstack = [
   { name: "C#" }
   { name: "Unity" }
   { name: "Julia" }
+  { name: "ASP.NET"}
 ];
