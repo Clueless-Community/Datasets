@@ -5166,4 +5166,6 @@ const engineeringColleges = ['A1 Global Institute of Engineering and Technology'
 'M.S. Ramaiah University, Bangalore',
 'symbiosis International university, Pune',
 'sMS Jaipur',
+' Pune Institute of computer technology',
+'Government Polytechnic pune',                            
 ]
