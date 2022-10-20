@@ -1,4 +1,5 @@
 var lastNames = [
+    "Verma",
     "Kumar",
     "Raj",
     "Rajpoot",
@@ -108,5 +109,5 @@ var lastNames = [
     "Chander",
     "Chandra",
     "Chandran",
-    "Chatterjee"
-]
+    "Chatterjee",
+];
