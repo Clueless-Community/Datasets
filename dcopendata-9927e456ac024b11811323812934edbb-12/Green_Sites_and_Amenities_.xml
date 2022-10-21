@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Green Sites and Amenities </title>
+<geoform>vector digital data</geoform>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Green location, amenities, attraction, and sites. The dataset contains locations and attributes of green features in the District, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the District Department of the Environment identified green locations. This dataset comprises the greenmap of DC and used to map and promote green amenities in the District. These include: - Aquatic Habitat - Bird and Wildlife Viewing - Community Garden - Ecological Action Zone - EcoInformation Site - Ecological Restoration Site - Energy Star - Environmental Art - Farmers Market - Geothermal Site - Good Walking Paths - Green Building - Green Cultural Site - Green Roof - Kayak and Canoe Site - Marina and Boat Ramp - Recycling - River Smart Home - Scenic View - School Yard Site - Solar Site - Special Garden - Special Tree - Tree Planting Site - Wetland - Wildlife and Nature Center - Wind Energy - Zip Car Share Site</abstract>
+<purpose>Green sites, amenities and attractions in the District of Columbia. </purpose>
+</descript>
+<status>
+<progress>Complete</progress>
+<update>Annually</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-77.117507</westbc>
+<eastbc>-76.922611</eastbc>
+<northbc>38.985621</northbc>
+<southbc>38.814057</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>garden</themekey>
+<themekey>kayak</themekey>
+<themekey>boating</themekey>
+<themekey>structure</themekey>
+<themekey>wetlands</themekey>
+<themekey>geothermal</themekey>
+<themekey>wind</themekey>
+<themekey>nature</themekey>
+<themekey>environment</themekey>
+<themekey>hiking</themekey>
+<themekey>solar</themekey>
+<themekey>recycling</themekey>
+<themekey>society</themekey>
+<themekey>wildlife</themekey>
+<themekey>building</themekey>
+<themekey>bird</themekey>
+<themekey>culture</themekey>
+<themekey>car share</themekey>
+<themekey>farmers market</themekey>
+<themekey>tree</themekey>
+<themekey>conservation</themekey>
+<themekey>trail</themekey>
+<themekey>scenery</themekey>
+<themekey>energy</themekey>
+<themekey>aquatic</themekey>
+<themekey>green</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>environment</themekey>
+<themekey>structure</themekey>
+<themekey>society</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>DC</placekey>
+<placekey>DCGIS</placekey>
+<placekey>DC GIS</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>D.C. Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>200 I Street SE, 5th Floor</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20003</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>(202) 727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>8:30 am - 5 pm</hours>
+</cntinfo>
+</ptcontac>
+<datacred>District Department of the Environment</datacred>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Dataset believed to be complete and accurate, subject to change.</attraccr>
+</attracc>
+<logic>Validated by source and/or responsible agency.</logic>
+<complete>Data complete to best of source and/or responsible agency's knowledge.</complete>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin/>
+<pubdate>20091107</pubdate>
+<title>Green Site Points</title>
+<geoform>tabular digital data</geoform>
+<onlink>http://green.dc.gov</onlink>
+</citeinfo>
+</srccite>
+<typesrc>hardcopy</typesrc>
+<srccitea>Green Amenities in DC</srccitea>
+<srccontr>location and attributes</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>District Department of the Environment staff collected information on 28 types of green feature in DC. They consulted various reliable 3rd party resources such as the DC Green building council, energy star database, nonprofits, and websites. Some knowledge experts added information such as wildlife and wetlands. DC GIS joined thee 28 tables into one maste table andf geocoded the sites to the Master Address Repositoty. Some sites already contained coordinates that staff used to map their location. Those that could not be geocoded were visually located on the map. Sites with Virginia addresses, all marinas, were placed on the marina.</procdesc>
+<procdate>20091106</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Office of the Chief Technology Officer</cntorg>
+<cntper>DC GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>200 I Street SE, 5th Floor</address>
+<city>Washington</city>
+<state>DCq</state>
+<postal>20001</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>202-727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>9am - 5pm</hours>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Added 59 green buildings</procdesc>
+<procdate>20110907</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>OCTO</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Added several new green roofs.</procdesc>
+<procdate>20120407</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>OCTO</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Updated the community gardens.</procdesc>
+<procdate>20121001</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>OCTO</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>646</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>DCGIS.GreenSitePt</enttypl>
+</enttyp>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>Edited</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>MatchAddr</attrlabl>
+<attrdef>MAR address</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>GlobalID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>Created</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>THEME</attrlabl>
+<attrdef>Green Site Theme Name</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+<attrdef>Green Site Address or Location</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>DESCRIPTION</attrlabl>
+<attrdef>Green Site Description</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>PHONE</attrlabl>
+<attrdef>Green Site Phone Number</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>WEB_URL</attrlabl>
+<attrdef>Green Site Web Link</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>STEWARD</attrlabl>
+<attrdef>Green Site Steward</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>WEB_URL2</attrlabl>
+<attrdef>Green Site Link #2</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>EMAIL_PHONE</attrlabl>
+<attrdef>Email and Phone contact information for person who collected the information</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>LAST_UPDATE</attrlabl>
+<attrdef>Update Date</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>SOURCE</attrlabl>
+<attrdef>Green Site Source</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>PRIORITY</attrlabl>
+<attrdef>Green Site Priority, used to emphasize certain sites</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>MATCHADDR</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Green Site Name</attrdef>
+</attr>
+<attr>
+<attrlabl>SHAPE</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>IMAGE_NAME</attrlabl>
+</attr>
+<attr>
+<attrlabl>Creator</attrlabl>
+</attr>
+<attr>
+<attrlabl>YCOORD</attrlabl>
+</attr>
+<attr>
+<attrlabl>MAR_ID</attrlabl>
+</attr>
+<attr>
+<attrlabl>LAYER</attrlabl>
+<attrdef>Green Site Type</attrdef>
+</attr>
+<attr>
+<attrlabl>SE_ANNO_CAD_DATA</attrlabl>
+</attr>
+<attr>
+<attrlabl>GIS_ID</attrlabl>
+</attr>
+<attr>
+<attrlabl>Editor</attrlabl>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>D.C. Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>200 I Street SE, 5th Floor</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20003</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>(202) 727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>8:30 am - 5 pm</hours>
+</cntinfo>
+</distrib>
+<distliab>See access and use constraints information.</distliab>
+<custom>DC datasets can be downloaded from "http://opendata.dc.gov".</custom>
+</distinfo>
+<metainfo>
+<metd>20171031</metd>
+<metrd>20091106</metrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>D.C. Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>200 I Street SE, 5th Floor</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20003</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>(202) 727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>8:30 am - 5 pm</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
