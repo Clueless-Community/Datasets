@@ -1075,6 +1075,7 @@ const colleges = [
     'MVR Degree College',
     'Mysore Makkala Koota and Sri Dharmasthala Manjunatheswara College for Women',
     'Mysore University',
+    'Maulana Azad college of Engineering and Technology Patna ',
     'N. E. F. Law College',
     'N. G. M. College',
     'N.M.S.S.V.N.College',
