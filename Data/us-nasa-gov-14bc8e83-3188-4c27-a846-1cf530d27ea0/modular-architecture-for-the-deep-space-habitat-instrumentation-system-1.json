@@ -1,0 +1,77 @@
+{"project": {
+    "benefits": "<p><p>Some of the technologies tested either already had working flight hardware or were developing the flight versions of the hardware.&nbsp; Testing in the DSH provided them with additional data, an opportunity to test within an integrated system, and exposure to developing their technology for habitat systems.&nbsp; These technologies subsequently increased their TRL through testing with the DSH team, and are furthering their goals of implementing these technologies on current funded missions.<\/p><\/p>",
+    "programDirectors": {"programDirector": "Therese Griebel"},
+    "responsibleProgram": "Center Innovation Fund: JSC CIF",
+    "workLocations": {"workLocation": "Texas"},
+    "endDate": "Sep 2012",
+    "primaryTas": {"technologyAreas": [
+        {
+            "code": 7,
+            "name": "Human Exploration Destination Systems",
+            "id": 3245
+        },
+        {
+            "code": 7.4,
+            "name": "Habitat Systems",
+            "id": 3296
+        }
+    ]},
+    "projectManagers": {"projectManager": "Kristina Rojdev"},
+    "description": "<p>This project is focused on developing a continually evolving modular backbone architecture for the Deep Space Habitat (DSH) instrumentation system by integrating new instrumentation technologies and technology demonstrations into the DSH.  By creating a modular architecture, instrumentation can be easily  changed out in the event of failures, or upgraded to newer versions of hardware.  The instrumentation system is continuously evolving as hardware is upgraded as a result of lessons learned from previous tests, and as new hardware is implemented to evaluate new technologies and technology demonstrations.   Accomplishments: A Flat Surface Damage Detection System (FSDDS) panel (KSC technology) was successfully integrated with DSH software and tested over SNRF networks.  This demonstration proves the capability of interconnecting testbeds and enables future technology development/testing in this manner.  The FSDDS also successfully tested multiple panels interconnected in a standalone configuration; A Radiation Environment Monitor (REM) was successfully integrated and tested.  The team also collected important data on background radiation levels; The RFID system previously developed for the Geology Laboratory Workstation was further integrated with software.  This system successfully tracked all rock samples and organized the data for each sample; An RFID system was successfully integrated into the medical operations workstation to provide inventory management of medical devices and supplies; A portable Fourier Transform Infrared (FTIR) spectrometer was integrated as a standalone test.  The FTIR was successfully tested and the data provided interesting science on the composition of the internal atmosphere of the DSH, as well as the activities of the crew during the tests; Wireless Sensor Nodes (WSNs), the backbone architecture for the wireless modular instrumentation system in the DSH, were upgraded to account for lessons learned from the previous year.  The upgrades proved successful.  <\/p>",
+    "title": "Modular Architecture for the Deep Space Habitat Instrumentation System",
+    "leadOrganization": {
+        "acronym": "JSC",
+        "city": "Houston",
+        "name": "Johnson Space Center",
+        "state": "TX",
+        "type": "NASA Center"
+    },
+    "technologyMaturityEnd": 6,
+    "additionalTas": {"technologyAreas": [
+        {
+            "code": 4,
+            "name": "Robotics and Autonomous Systems",
+            "id": 3239
+        },
+        {
+            "code": 5,
+            "name": "Communications, Navigation, and Orbital Debris Tracking and Characterization Systems",
+            "id": 3243
+        },
+        {
+            "code": 6,
+            "name": "Human Health, Life Support, and Habitation Systems",
+            "id": 3244
+        },
+        {
+            "code": 14,
+            "name": "Thermal Management Systems",
+            "id": 3241
+        }
+    ]},
+    "principalInvestigators": {"principalInvestigator": "Kristina Rojdev"},
+    "lastUpdated": "2018-07-21",
+    "supportingOrganizations": {"organization": {
+        "acronym": "KSC",
+        "city": "Kennedy Space Center",
+        "name": "Kennedy Space Center",
+        "state": "FL",
+        "type": "NASA Center"
+    }},
+    "library": {"libraryItem": {
+        "description": "Project Image   Modular Architecture for the Deep Space Habitat Instrumentation System",
+        "files": {"file": {
+            "size": 121978,
+            "id": 2183,
+            "url": "https://techport.nasa.gov/file/2183"
+        }},
+        "id": 308,
+        "title": "12374-1375986368959.jpg",
+        "type": "Image"
+    }},
+    "technologyMaturityStart": 4,
+    "responsibleMissionDirectorateOrOffice": "Space Technology Mission Directorate",
+    "id": 12374,
+    "startDate": "Oct 2011",
+    "status": "Completed"
+}}
