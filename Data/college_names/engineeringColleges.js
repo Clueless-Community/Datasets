@@ -1254,5 +1254,5 @@ const engineeringColleges = [
   "Wellfare Institute of Science, Technology and Management",
   "Yashoda Technical campus, Faculty of Engineering, Wadhe",
   "Yeshwantrao Chavan College of Engineering",
-  "Zeal Education Society`s Zeal College of Engineering & Research",
+  "Zeal Education Society`s Zeal College of Engineering & Research"
 ];
