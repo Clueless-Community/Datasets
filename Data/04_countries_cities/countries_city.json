@@ -2261,6 +2261,193 @@
 
   }
 ]
+},
+  
+{
+  "country": "Japan",
+  "cities": [
+    {
+      "name": "Seto"
+    },
+    {
+      "name": "Handa"
+    },
+    {
+      "name": "Kasugai"
+    },
+    {
+      "name": "Toyokawa"
+    },
+    {
+      "name": "Tsushima"
+    },
+    {
+      "name": "Hekinan"
+    },
+    {
+      "name": "Kariya"
+    },
+    {
+      "name": "Anjo"
+    },
+    {
+      "name": "Nishio"
+    },
+    {
+      "name": "Inuyama"
+    },
+    {
+      "name": "Yotsukaido"
+    },
+    {
+      "name": "Urayasu"
+    },
+    {
+      "name": "Futtsu"
+    },
+    {
+      "name": "Kimitsu"
+    },
+    {
+      "name": "Abiko"
+    },
+    {
+      "name": "Yachiyo"
+    },
+    {
+      "name": "Nagareyama"
+    },
+    {
+      "name": "Ichihara"
+    },
+    {
+      "name": "Tokoname"
+    },
+    {
+      "name": "Konan"
+    },
+    {
+      "name": "Inazawa"
+    },
+    {
+      "name": "Tokai"
+    },
+    {
+      "name": "Obu"
+    },
+    {
+      "name": "Chita"
+    },
+    {
+      "name": "Chéshi"
+    },
+    {
+      "name": "Ichikawa"
+    },
+    {
+      "name": "Tateyama"
+    },
+    {
+      "name": "Kisarazu"
+    },
+    {
+      "name": "Matsudo"
+    },
+    {
+      "name": "Noda"
+    },
+    {
+      "name": "Mobara"
+    },
+    {
+      "name": "Narita"
+    },
+    {
+      "name": "Sakura"
+    },
+    {
+      "name": "Togane"
+    },
+    {
+      "name": "Katsura"
+    },
+    {
+      "name": "Narashino"
+    },
+    {
+      "name": "Komaki"
+    },
+    {
+      "name": "Hirosaki"
+    },
+    {
+      "name": "Hirakawa"
+    },
+    {
+      "name": "Kuroishi"
+    },
+    {
+      "name": "Noshiro"
+    },
+    {
+      "name": "Yokote"
+    },
+    {
+      "name": "Semboku"
+    },
+    {
+      "name": "Nikaho"
+    },
+    {
+      "name": "Yuzawa"
+    },
+    {
+      "name": "Kazuno"
+    },
+    {
+      "name": "Miyoshi"
+    },
+    {
+      "name": "Odate"
+    },
+    {
+      "name": "Daisen"
+    },
+    {
+      "name": "Katagami"
+    },
+    {
+      "name": "Oga"
+    },
+    {
+      "name": "Yurihonjo"
+    },
+    {
+      "name": "Toyoake"
+    },
+    {
+      "name": "Kiyosu"
+    },
+    {
+      "name": "Aisai"
+    },
+    {
+      "name": "Shinshiro"
+    },
+    {
+      "name": "Kitanagoya"
+    },
+    {
+      "name": "Yatomi"
+    },
+    {
+      "name": "Nisshin"
+    },
+    {
+      "name": "Nagakute"
+    }
+  ]
 }
+  
   
 ]
