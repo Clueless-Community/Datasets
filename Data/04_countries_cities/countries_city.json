@@ -2447,6 +2447,93 @@
       "name": "Nagakute"
     }
   ]
+},
+  
+  {
+  "country": "Nepal",
+  "cities": [
+    {
+      "name": "Kathmandu"
+    },
+    {
+      "name": "Pokhara"
+    },
+    {
+      "name": "Tilottama"
+    },
+    {
+      "name": "Chandragiri"
+    },
+    {
+      "name": "Madhyapur Thimi"
+    },
+    {
+      "name": "Lahan"
+    },
+    {
+      "name": "Tulsipur"
+    },
+    {
+      "name": "Kohalpur"
+    },
+    {
+      "name": "Butwal"
+    },
+    {
+      "name": "Jitpursimara"
+    },
+    {
+      "name": "Nepaigunj"
+    },
+    {
+      "name": "Dharan"
+    },
+    {
+      "name": "Kalaiya"
+    },
+    {
+      "name": "Hanari"
+    },
+    {
+      "name": "vanakpurdham"
+    },
+    {
+      "name": "Ghorahi"
+    },
+    {
+      "name": "Dhangadhi"
+    },
+    {
+      "name": "Biratnagar"
+    },
+    {
+      "name": "Birgunj"
+    },
+    {
+      "name": "Lalitpur"
+    },
+    {
+      "name": "Bharatpur"
+    },
+    {
+      "name": "Hetauda"
+    },
+    {
+      "name": "Birtamod"
+    },
+    {
+      "name": "Nagarjun"
+    },
+    {
+      "name": "Damak"
+    },
+    {
+      "name": "Kageshwari-Manohara"
+    },
+    {
+      "name": "Mahalaxmi"
+    }
+  ]
 }
   
   
