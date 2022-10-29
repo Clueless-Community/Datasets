@@ -2534,6 +2534,111 @@
       "name": "Mahalaxmi"
     }
   ]
+},
+  
+  {
+  "country": "Bangladesh",
+  "cities": [
+    {
+      "name": "Dhaka"
+    },
+    {
+      "name": "Chattogram"
+    },
+    {
+      "name": "Khulna"
+    },
+    {
+      "name": "Sylhet"
+    },
+    {
+      "name": "Rajshahi"
+    },
+    {
+      "name": "Rangpur"
+    },
+    {
+      "name": "Mymensingh"
+    },
+    {
+      "name": "Barishal"
+    },
+    {
+      "name": "Cumilla"
+    },
+    {
+      "name": "Narayanganj"
+    },
+    {
+      "name": "Gazipur"
+    },
+    {
+      "name": "Bhairab"
+    },
+    {
+      "name": "Bogura	"
+    },
+    {
+      "name": "Brahmanbaria"
+    },
+    {
+      "name": "Chandpur"
+    },
+    {
+      "name": "Chuadanga"
+    },
+    {
+      "name": "Dinajpur"
+    },
+    {
+      "name": "Faridpur"
+    },
+    {
+      "name": "Jamalpur"
+    },
+    {
+      "name": "Jashore"
+    },
+    {
+      "name": "Jhenaidah"
+    },
+    {
+      "name": "Kaliakair"
+    },
+    {
+      "name": "Maijdee"
+    },
+    {
+      "name": "Naogaon"
+    },
+    {
+      "name": "Pabna"
+    },
+    {
+      "name": "Satkhira"
+    },
+    {
+      "name": "Savar"
+    },
+    {
+      "name": "Siddhirganj"
+    },
+    {
+      "name": "Sirajganj"
+    },
+    {
+      "name": "Sreepur"
+    },
+    {
+      "name": "Tangail"
+    },
+    {
+      "name": "Tarabo"
+    },
+    {
+      "name": "Tongi"
+    }
+  ]
 }
   
   
