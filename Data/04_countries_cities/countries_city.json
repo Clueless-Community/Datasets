@@ -2639,6 +2639,92 @@
       "name": "Tongi"
     }
   ]
+},
+  {
+  "country": "Hong Kong",
+  "cities": [
+    {
+      "name": "Tsuen Wan"
+    },
+    {
+      "name": "Sha Tin"
+    },
+    {
+      "name": "Tuen Mun New Town"
+    },
+    {
+      "name": "Tai Po"
+    },
+    {
+      "name": "Yuen Long"
+    },
+    {
+      "name": "Fanling-Sheung Shui"
+    },
+    {
+      "name": "Ma On Shan"
+    },
+    {
+      "name": "Tseung Kwan O New Town"
+    },
+    {
+      "name": "Tin Shui Wai"
+    },
+    {
+      "name": "North Lantau"
+    },
+    {
+      "name": "Aberdeen"
+    },
+    {
+      "name": "Discovery Bay"
+    },
+    {
+      "name": "Kwun Tong"
+    },
+    {
+      "name": "Lau Fau Shan"
+    },
+    {
+      "name": "Luen Wo Hui"
+    },
+    {
+      "name": "Sai Kung"
+    },
+    {
+      "name": "San Tin"
+    },
+    {
+      "name": "Sha Tau Kok"
+    },
+    {
+      "name": "Shek O"
+    },
+    {
+      "name": "Sok Kwu Wan"
+    },
+    {
+      "name": "Stanley"
+    },
+    {
+      "name": "Tai O"
+    },
+    {
+      "name": "Yuen Long Town"
+    },
+    {
+      "name": "Yung Shue Wan"
+    },
+    {
+      "name": "Ha Tsuen"
+    },
+    {
+      "name": "Kwu Tung"
+    },
+    {
+      "name": "Peng Chau"
+    }
+  ]
 }
   
   
