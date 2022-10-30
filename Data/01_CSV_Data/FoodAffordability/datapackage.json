@@ -1,0 +1,96 @@
+{
+  "accrual_periodicity": "other",
+  "additional_limitations": "",
+  "citation": "Healthy Communities Data and Indicators Project, CDPH and UCSF. 2015.",
+  "contact_email": "opendata@cdph.ca.gov",
+  "data_collection_tool": "",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This table contains data on the average cost of a market basket of nutritious food items relative to income for female-headed households with children, for California, its regions, counties, and cities/towns.  The ratio uses data from the U.S. Department of Agriculture and the U.S. Census Bureau. The table is part of a series of indicators in the Healthy Communities Data and Indicators Project of the Office of Health Equity. \r\nAn adequate, nutritious diet is a necessity at all stages of life. Inadequate diets can impair intellectual performance and have been linked to more frequent school absence and poorer educational achievement in children. Nutrition also plays a significant role in causing or preventing a number of illnesses, such as cardiovascular disease, some cancers, obesity, type 2 diabetes, and anemia.\r\nAt least two factors influence the affordability of food and the dietary choices of families – the cost of food and family income. The inability to afford food is a major factor in food insecurity, which has a spectrum of effects including anxiety over food sufficiency or food shortages; reduced quality or desirability of diet; and disrupted eating patterns and reduced food intake.  More information about the data table and a data dictionary can be found in the Attachments.",
+  "geo_coverage": "California",
+  "geographic_granularity": "regional",
+  "keywords": [
+    "food affordability",
+    "food security",
+    "hci",
+    "health community indicator",
+    "healthy community indicator",
+    "social determinants of health"
+  ],
+  "limitations": "Limitations",
+  "name": "food-affordability-2006-2010",
+  "program_web_page": "https://www.cdph.ca.gov/Programs/OHE/Pages/HCI-Search.aspx",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "This table contains data on the average cost of a market basket of nutritious food items relative to income for female-headed households with children, for California, its regions, counties, and cities/towns.  The ratio uses data from the U.S. Department of Agriculture and the U.S. Census Bureau. The table is part of a series of indicators in the Healthy Communities Data and Indicators Project of the Office of Health Equity. \r\nAn adequate, nutritious diet is a necessity at all stages of life. Inadequate diets can impair intellectual performance and have been linked to more frequent school absence and poorer educational achievement in children. Nutrition also plays a significant role in causing or preventing a number of illnesses, such as cardiovascular disease, some cancers, obesity, type 2 diabetes, and anemia.\r\nAt least two factors influence the affordability of food and the dietary choices of families – the cost of food and family income. The inability to afford food is a major factor in food insecurity, which has a spectrum of effects including anxiety over food sufficiency or food shortages; reduced quality or desirability of diet; and disrupted eating patterns and reduced food intake.  More information about the data table and a data dictionary can be found in the Attachments.",
+      "format": "PDF",
+      "name": "food-affordability-narrative-and-examples",
+      "path": "food-affordability-narrative-and-examples.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0114f5bb-4975-419d-95d9-5f0179a8de06/resource/3ccd7a4b-890c-4db6-9811-8472dda2af4b/download/foodaffordabilitynarrativeexamples4-14-13.pdf",
+          "title": "Food Affordability Narrative and Examples"
+        }
+      ],
+      "title": "Food Affordability Narrative and Examples"
+    },
+    {
+      "description": "This table contains data on the average cost of a market basket of nutritious food items relative to income for female-headed households with children, for California, its regions, counties, and cities/towns.  The ratio uses data from the U.S. Department of Agriculture and the U.S. Census Bureau. The table is part of a series of indicators in the Healthy Communities Data and Indicators Project of the Office of Health Equity. \r\nAn adequate, nutritious diet is a necessity at all stages of life. Inadequate diets can impair intellectual performance and have been linked to more frequent school absence and poorer educational achievement in children. Nutrition also plays a significant role in causing or preventing a number of illnesses, such as cardiovascular disease, some cancers, obesity, type 2 diabetes, and anemia.\r\nAt least two factors influence the affordability of food and the dietary choices of families – the cost of food and family income. The inability to afford food is a major factor in food insecurity, which has a spectrum of effects including anxiety over food sufficiency or food shortages; reduced quality or desirability of diet; and disrupted eating patterns and reduced food intake.  More information about the data table and a data dictionary can be found in the Attachments.",
+      "format": "XLSX",
+      "name": "food-affordability-2006-2010",
+      "path": "food-affordability-2006-2010.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "County_FIPS",
+            "type": "string"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "MPO Region",
+            "type": "string"
+          },
+          {
+            "name": "MPO_Region_code",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0114f5bb-4975-419d-95d9-5f0179a8de06/resource/916e2a2e-383b-4af5-9f5b-310500961cb5/download/food_afford_cdp_co_region_ca4-14-13-ada.xls",
+          "title": "Food Affordability, 2006-2010"
+        }
+      ],
+      "title": "Food Affordability, 2006-2010"
+    },
+    {
+      "description": "This table contains data on the average cost of a market basket of nutritious food items relative to income for female-headed households with children, for California, its regions, counties, and cities/towns.  The ratio uses data from the U.S. Department of Agriculture and the U.S. Census Bureau. The table is part of a series of indicators in the Healthy Communities Data and Indicators Project of the Office of Health Equity. \r\nAn adequate, nutritious diet is a necessity at all stages of life. Inadequate diets can impair intellectual performance and have been linked to more frequent school absence and poorer educational achievement in children. Nutrition also plays a significant role in causing or preventing a number of illnesses, such as cardiovascular disease, some cancers, obesity, type 2 diabetes, and anemia.\r\nAt least two factors influence the affordability of food and the dietary choices of families – the cost of food and family income. The inability to afford food is a major factor in food insecurity, which has a spectrum of effects including anxiety over food sufficiency or food shortages; reduced quality or desirability of diet; and disrupted eating patterns and reduced food intake.  More information about the data table and a data dictionary can be found in the Attachments.",
+      "format": "XLSX",
+      "name": "food-affordability-data-dictionary",
+      "path": "food-affordability-data-dictionary.xlsx",
+      "schema": {
+        "fields": []
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/0114f5bb-4975-419d-95d9-5f0179a8de06/resource/da6d5b83-bbde-4192-92cb-e575fc6417ca/download/foodaffordabilitydd.xlsx",
+          "title": "Food Affordability Data Dictionary"
+        }
+      ],
+      "title": "Food Affordability Data Dictionary"
+    }
+  ],
+  "secondary_sources": "\"Data source 1: Center for Nutrition Policy and Promotion. Official USDA Food Plans: Average U.S. Cost of Food at Home at Four Levels http://www.cnpp.usda.gov/USDAFoodCost-Home.htm",
+  "sources": [
+    {
+      "name": "Office of Health Equity, Healthy Places Team"
+    }
+  ],
+  "temporal_coverage": "2006-2010",
+  "title": "Food Affordability"
+}
