@@ -1,0 +1,399 @@
+vehicle id,vehicle name,model,origin
+C-1689780,chevrolet chevelle malibu,70,1
+B-1689791,buick skylark 320,70,1
+P-1689802,plymouth satellite,70,1
+A-1689813,amc rebel sst,70,1
+F-1689824,ford torino,70,1
+F-1689835,ford galaxie 500,70,1
+C-1689846,chevrolet impala,70,1
+P-1689857,plymouth fury iii,70,1
+P-1689868,pontiac catalina,70,1
+A-1689879,amc ambassador dpl,70,1
+D-1689890,dodge challenger se,70,1
+P-1689901,plymouth 'cuda 340,70,1
+C-1689912,chevrolet monte carlo,70,1
+B-1689923,buick estate wagon (sw),70,1
+T-1689934,toyota corona mark ii,70,3
+P-1689945,plymouth duster,70,1
+A-1689956,amc hornet,70,1
+F-1689967,ford maverick,70,1
+D-1689978,datsun pl510,70,3
+V-1689989,volkswagen 1131 deluxe sedan,70,2
+P-1690000,peugeot 504,70,2
+A-1690011,audi 100 ls,70,2
+S-1690022,saab 99e,70,2
+B-1690033,bmw 2002,70,2
+A-1690044,amc gremlin,70,1
+F-1690055,ford f250,70,1
+C-1690066,chevy c20,70,1
+D-1690077,dodge d200,70,1
+H-1690088,hi 1200d,70,1
+D-1690099,datsun pl510,71,3
+C-1690110,chevrolet vega 2300,71,1
+T-1690121,toyota corona,71,3
+F-1690132,ford pinto,71,1
+A-1690143,amc gremlin,71,1
+P-1690154,plymouth satellite custom,71,1
+C-1690165,chevrolet chevelle malibu,71,1
+F-1690176,ford torino 500,71,1
+A-1690187,amc matador,71,1
+C-1690198,chevrolet impala,71,1
+P-1690209,pontiac catalina brougham,71,1
+F-1690220,ford galaxie 500,71,1
+P-1690231,plymouth fury iii,71,1
+D-1690242,dodge monaco (sw),71,1
+F-1690253,ford country squire (sw),71,1
+P-1690264,pontiac safari (sw),71,1
+A-1690275,amc hornet sportabout (sw),71,1
+C-1690286,chevrolet vega (sw),71,1
+P-1690297,pontiac firebird,71,1
+F-1690308,ford mustang,71,1
+M-1690319,mercury capri 2000,71,1
+O-1690330,opel 1900,71,2
+P-1690341,peugeot 304,71,2
+F-1690352,fiat 124b,71,2
+T-1690363,toyota corolla 1200,71,3
+D-1690374,datsun 1200,71,3
+V-1690385,volkswagen model 111,71,2
+P-1690396,plymouth cricket,71,1
+T-1690407,toyota corona hardtop,72,3
+D-1690418,dodge colt hardtop,72,1
+V-1690429,volkswagen type 3,72,2
+C-1690440,chevrolet vega,72,1
+F-1690451,ford pinto runabout,72,1
+C-1690462,chevrolet impala,72,1
+P-1690473,pontiac catalina,72,1
+P-1690484,plymouth fury iii,72,1
+F-1690495,ford galaxie 500,72,1
+A-1690506,amc ambassador sst,72,1
+M-1690517,mercury marquis,72,1
+B-1690528,buick lesabre custom,72,1
+O-1690539,oldsmobile delta 88 royale,72,1
+C-1690550,chrysler newport royal,72,1
+M-1690561,mazda rx2 coupe,72,3
+A-1690572,amc matador (sw),72,1
+C-1690583,chevrolet chevelle concours (sw),72,1
+F-1690594,ford gran torino (sw),72,1
+P-1690605,plymouth satellite custom (sw),72,1
+V-1690616,volvo 145e (sw),72,2
+V-1690627,volkswagen 411 (sw),72,2
+P-1690638,peugeot 504 (sw),72,2
+R-1690649,renault 12 (sw),72,2
+F-1690660,ford pinto (sw),72,1
+D-1690671,datsun 510 (sw),72,3
+T-1690682,toyouta corona mark ii (sw),72,3
+D-1690693,dodge colt (sw),72,1
+T-1690704,toyota corolla 1600 (sw),72,3
+B-1690715,buick century 350,73,1
+A-1690726,amc matador,73,1
+C-1690737,chevrolet malibu,73,1
+F-1690748,ford gran torino,73,1
+D-1690759,dodge coronet custom,73,1
+M-1690770,mercury marquis brougham,73,1
+C-1690781,chevrolet caprice classic,73,1
+F-1690792,ford ltd,73,1
+P-1690803,plymouth fury gran sedan,73,1
+C-1690814,chrysler new yorker brougham,73,1
+B-1690825,buick electra 225 custom,73,1
+A-1690836,amc ambassador brougham,73,1
+P-1690847,plymouth valiant,73,1
+C-1690858,chevrolet nova custom,73,1
+A-1690869,amc hornet,73,1
+F-1690880,ford maverick,73,1
+P-1690891,plymouth duster,73,1
+V-1690902,volkswagen super beetle,73,2
+C-1690913,chevrolet impala,73,1
+F-1690924,ford country,73,1
+P-1690935,plymouth custom suburb,73,1
+O-1690946,oldsmobile vista cruiser,73,1
+A-1690957,amc gremlin,73,1
+T-1690968,toyota carina,73,3
+C-1690979,chevrolet vega,73,1
+D-1690990,datsun 610,73,3
+M-1691001,maxda rx3,73,3
+F-1691012,ford pinto,73,1
+M-1691023,mercury capri v6,73,1
+F-1691034,fiat 124 sport coupe,73,2
+C-1691045,chevrolet monte carlo s,73,1
+P-1691056,pontiac grand prix,73,1
+F-1691067,fiat 128,73,2
+O-1691078,opel manta,73,2
+A-1691089,audi 100ls,73,2
+V-1691100,volvo 144ea,73,2
+D-1691111,dodge dart custom,73,1
+S-1691122,saab 99le,73,2
+T-1691133,toyota mark ii,73,3
+O-1691144,oldsmobile omega,73,1
+P-1691155,plymouth duster,74,1
+F-1691166,ford maverick,74,1
+A-1691177,amc hornet,74,1
+C-1691188,chevrolet nova,74,1
+D-1691199,datsun b210,74,3
+F-1691210,ford pinto,74,1
+T-1691221,toyota corolla 1200,74,3
+C-1691232,chevrolet vega,74,1
+C-1691243,chevrolet chevelle malibu classic,74,1
+A-1691254,amc matador,74,1
+P-1691265,plymouth satellite sebring,74,1
+F-1691276,ford gran torino,74,1
+B-1691287,buick century luxus (sw),74,1
+D-1691298,dodge coronet custom (sw),74,1
+F-1691309,ford gran torino (sw),74,1
+A-1691320,amc matador (sw),74,1
+A-1691331,audi fox,74,2
+V-1691342,volkswagen dasher,74,2
+O-1691353,opel manta,74,2
+T-1691364,toyota corona,74,3
+D-1691375,datsun 710,74,3
+D-1691386,dodge colt,74,1
+F-1691397,fiat 128,74,2
+F-1691408,fiat 124 tc,74,2
+H-1691419,honda civic,74,3
+S-1691430,subaru,74,3
+F-1691441,fiat x1.9,74,2
+P-1691452,plymouth valiant custom,75,1
+C-1691463,chevrolet nova,75,1
+M-1691474,mercury monarch,75,1
+F-1691485,ford maverick,75,1
+P-1691496,pontiac catalina,75,1
+C-1691507,chevrolet bel air,75,1
+P-1691518,plymouth grand fury,75,1
+F-1691529,ford ltd,75,1
+B-1691540,buick century,75,1
+C-1691551,chevroelt chevelle malibu,75,1
+A-1691562,amc matador,75,1
+P-1691573,plymouth fury,75,1
+B-1691584,buick skyhawk,75,1
+C-1691595,chevrolet monza 2+2,75,1
+F-1691606,ford mustang ii,75,1
+T-1691617,toyota corolla,75,3
+F-1691628,ford pinto,75,1
+A-1691639,amc gremlin,75,1
+P-1691650,pontiac astro,75,1
+T-1691661,toyota corona,75,3
+V-1691672,volkswagen dasher,75,2
+D-1691683,datsun 710,75,3
+F-1691694,ford pinto,75,1
+V-1691705,volkswagen rabbit,75,2
+A-1691716,amc pacer,75,1
+A-1691727,audi 100ls,75,2
+P-1691738,peugeot 504,75,2
+V-1691749,volvo 244dl,75,2
+S-1691760,saab 99le,75,2
+H-1691771,honda civic cvcc,75,3
+F-1691782,fiat 131,76,2
+O-1691793,opel 1900,76,2
+C-1691804,capri ii,76,1
+D-1691815,dodge colt,76,1
+R-1691826,renault 12tl,76,2
+C-1691837,chevrolet chevelle malibu classic,76,1
+D-1691848,dodge coronet brougham,76,1
+A-1691859,amc matador,76,1
+F-1691870,ford gran torino,76,1
+P-1691881,plymouth valiant,76,1
+C-1691892,chevrolet nova,76,1
+F-1691903,ford maverick,76,1
+A-1691914,amc hornet,76,1
+C-1691925,chevrolet chevette,76,1
+C-1691936,chevrolet woody,76,1
+V-1691947,vw rabbit,76,2
+H-1691958,honda civic,76,3
+D-1691969,dodge aspen se,76,1
+F-1691980,ford granada ghia,76,1
+P-1691991,pontiac ventura sj,76,1
+A-1692002,amc pacer d/l,76,1
+V-1692013,volkswagen rabbit,76,2
+D-1692024,datsun b-210,76,3
+T-1692035,toyota corolla,76,3
+F-1692046,ford pinto,76,1
+V-1692057,volvo 245,76,2
+P-1692068,plymouth volare premier v8,76,1
+P-1692079,peugeot 504,76,2
+T-1692090,toyota mark ii,76,3
+M-1692101,mercedes-benz 280s,76,2
+C-1692112,cadillac seville,76,1
+C-1692123,chevy c10,76,1
+F-1692134,ford f108,76,1
+D-1692145,dodge d100,76,1
+H-1692156,honda accord cvcc,77,3
+B-1692167,buick opel isuzu deluxe,77,1
+R-1692178,renault 5 gtl,77,2
+P-1692189,plymouth arrow gs,77,1
+D-1692200,datsun f-10 hatchback,77,3
+C-1692211,chevrolet caprice classic,77,1
+O-1692222,oldsmobile cutlass supreme,77,1
+D-1692233,dodge monaco brougham,77,1
+M-1692244,mercury cougar brougham,77,1
+C-1692255,chevrolet concours,77,1
+B-1692266,buick skylark,77,1
+P-1692277,plymouth volare custom,77,1
+F-1692288,ford granada,77,1
+P-1692299,pontiac grand prix lj,77,1
+C-1692310,chevrolet monte carlo landau,77,1
+C-1692321,chrysler cordoba,77,1
+F-1692332,ford thunderbird,77,1
+V-1692343,volkswagen rabbit custom,77,2
+P-1692354,pontiac sunbird coupe,77,1
+T-1692365,toyota corolla liftback,77,3
+F-1692376,ford mustang ii 2+2,77,1
+C-1692387,chevrolet chevette,77,1
+D-1692398,dodge colt m/m,77,1
+S-1692409,subaru dl,77,3
+V-1692420,volkswagen dasher,77,2
+D-1692431,datsun 810,77,3
+B-1692442,bmw 320i,77,2
+M-1692453,mazda rx-4,77,3
+V-1692464,volkswagen rabbit custom diesel,78,2
+F-1692475,ford fiesta,78,1
+M-1692486,mazda glc deluxe,78,3
+D-1692497,datsun b210 gx,78,3
+H-1692508,honda civic cvcc,78,3
+O-1692519,oldsmobile cutlass salon brougham,78,1
+D-1692530,dodge diplomat,78,1
+M-1692541,mercury monarch ghia,78,1
+P-1692552,pontiac phoenix lj,78,1
+C-1692563,chevrolet malibu,78,1
+F-1692574,ford fairmont (auto),78,1
+F-1692585,ford fairmont (man),78,1
+P-1692596,plymouth volare,78,1
+A-1692607,amc concord,78,1
+B-1692618,buick century special,78,1
+M-1692629,mercury zephyr,78,1
+D-1692640,dodge aspen,78,1
+A-1692651,amc concord d/l,78,1
+C-1692662,chevrolet monte carlo landau,78,1
+B-1692673,buick regal sport coupe (turbo),78,1
+F-1692684,ford futura,78,1
+D-1692695,dodge magnum xe,78,1
+C-1692706,chevrolet chevette,78,1
+T-1692717,toyota corona,78,3
+D-1692728,datsun 510,78,3
+D-1692739,dodge omni,78,1
+T-1692750,toyota celica gt liftback,78,3
+P-1692761,plymouth sapporo,78,1
+O-1692772,oldsmobile starfire sx,78,1
+D-1692783,datsun 200-sx,78,3
+A-1692794,audi 5000,78,2
+V-1692805,volvo 264gl,78,2
+S-1692816,saab 99gle,78,2
+P-1692827,peugeot 604sl,78,2
+V-1692838,volkswagen scirocco,78,2
+H-1692849,honda accord lx,78,3
+P-1692860,pontiac lemans v6,79,1
+M-1692871,mercury zephyr 6,79,1
+F-1692882,ford fairmont 4,79,1
+A-1692893,amc concord dl 6,79,1
+D-1692904,dodge aspen 6,79,1
+C-1692915,chevrolet caprice classic,79,1
+F-1692926,ford ltd landau,79,1
+M-1692937,mercury grand marquis,79,1
+D-1692948,dodge st. regis,79,1
+B-1692959,buick estate wagon (sw),79,1
+F-1692970,ford country squire (sw),79,1
+C-1692981,chevrolet malibu classic (sw),79,1
+C-1692992,chrysler lebaron town @ country (sw),79,1
+V-1693003,vw rabbit custom,79,2
+M-1693014,maxda glc deluxe,79,3
+D-1693025,dodge colt hatchback custom,79,1
+A-1693036,amc spirit dl,79,1
+M-1693047,mercedes benz 300d,79,2
+C-1693058,cadillac eldorado,79,1
+P-1693069,peugeot 504,79,2
+O-1693080,oldsmobile cutlass salon brougham,79,1
+P-1693091,plymouth horizon,79,1
+P-1693102,plymouth horizon tc3,79,1
+D-1693113,datsun 210,79,3
+F-1693124,fiat strada custom,79,2
+B-1693135,buick skylark limited,79,1
+C-1693146,chevrolet citation,79,1
+O-1693157,oldsmobile omega brougham,79,1
+P-1693168,pontiac phoenix,79,1
+V-1693179,vw rabbit,80,2
+T-1693190,toyota corolla tercel,80,3
+C-1693201,chevrolet chevette,80,1
+D-1693212,datsun 310,80,3
+C-1693223,chevrolet citation,80,1
+F-1693234,ford fairmont,80,1
+A-1693245,amc concord,80,1
+D-1693256,dodge aspen,80,1
+A-1693267,audi 4000,80,2
+T-1693278,toyota corona liftback,80,3
+M-1693289,mazda 626,80,3
+D-1693300,datsun 510 hatchback,80,3
+T-1693311,toyota corolla,80,3
+M-1693322,mazda glc,80,3
+D-1693333,dodge colt,80,1
+D-1693344,datsun 210,80,3
+V-1693355,vw rabbit c (diesel),80,2
+V-1693366,vw dasher (diesel),80,2
+A-1693377,audi 5000s (diesel),80,2
+M-1693388,mercedes-benz 240d,80,2
+H-1693399,honda civic 1500 gl,80,3
+R-1693410,renault lecar deluxe,80,2
+S-1693421,subaru dl,80,3
+V-1693432,vokswagen rabbit,80,2
+D-1693443,datsun 280-zx,80,3
+M-1693454,mazda rx-7 gs,80,3
+T-1693465,triumph tr7 coupe,80,2
+F-1693476,ford mustang cobra,80,1
+H-1693487,honda accord,80,3
+P-1693498,plymouth reliant,81,1
+B-1693509,buick skylark,81,1
+D-1693520,dodge aries wagon (sw),81,1
+C-1693531,chevrolet citation,81,1
+P-1693542,plymouth reliant,81,1
+T-1693553,toyota starlet,81,3
+P-1693564,plymouth champ,81,1
+H-1693575,honda civic 1300,81,3
+S-1693586,subaru,81,3
+D-1693597,datsun 210 mpg,81,3
+T-1693608,toyota tercel,81,3
+M-1693619,mazda glc 4,81,3
+P-1693630,plymouth horizon 4,81,1
+F-1693641,ford escort 4w,81,1
+F-1693652,ford escort 2h,81,1
+V-1693663,volkswagen jetta,81,2
+R-1693674,renault 18i,81,2
+H-1693685,honda prelude,81,3
+T-1693696,toyota corolla,81,3
+D-1693707,datsun 200sx,81,3
+M-1693718,mazda 626,81,3
+P-1693729,peugeot 505s turbo diesel,81,2
+V-1693740,volvo diesel,81,2
+T-1693751,toyota cressida,81,3
+D-1693762,datsun 810 maxima,81,3
+B-1693773,buick century,81,1
+O-1693784,oldsmobile cutlass ls,81,1
+F-1693795,ford granada gl,81,1
+C-1693806,chrysler lebaron salon,81,1
+C-1693817,chevrolet cavalier,82,1
+C-1693828,chevrolet cavalier wagon,82,1
+C-1693839,chevrolet cavalier 2-door,82,1
+P-1693850,pontiac j2000 se hatchback,82,1
+D-1693861,dodge aries se,82,1
+P-1693872,pontiac phoenix,82,1
+F-1693883,ford fairmont futura,82,1
+A-1693894,amc concord dl,82,1
+V-1693905,volkswagen rabbit l,82,2
+M-1693916,mazda glc custom l,82,3
+M-1693927,mazda glc custom,82,3
+P-1693938,plymouth horizon miser,82,1
+M-1693949,mercury lynx l,82,1
+N-1693960,nissan stanza xe,82,3
+H-1693971,honda accord,82,3
+T-1693982,toyota corolla,82,3
+H-1693993,honda civic,82,3
+H-1694004,honda civic (auto),82,3
+D-1694015,datsun 310 gx,82,3
+B-1694026,buick century limited,82,1
+O-1694037,oldsmobile cutlass ciera (diesel),82,1
+C-1694048,chrysler lebaron medallion,82,1
+F-1694059,ford granada l,82,1
+T-1694070,toyota celica gt,82,3
+D-1694081,dodge charger 2.2,82,1
+C-1694092,chevrolet camaro,82,1
+F-1694103,ford mustang gl,82,1
+V-1694114,vw pickup,82,2
+D-1694125,dodge rampage,82,1
+F-1694136,ford ranger,82,1
+C-1694147,chevy s-10,82,1
